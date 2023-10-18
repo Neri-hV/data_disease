@@ -1,0 +1,33 @@
+codigo_municipio,municipio,grupo,variable,mes,menores a 1 año,de 1 a 4 años,de 5 a 14 años,de 15 a 59 años,de 60 y más años,total
+20101,LA PAZ,sospecha diagnostica,tosferina,2001-01-01,0,1,0,0,0,1
+20101,LA PAZ,sospecha diagnostica,tosferina,2001-02-01,2,0,0,0,0,2
+40101,ORURO,sospecha diagnostica,tosferina,2001-03-01,0,1,1,0,0,2
+70201,WARNES,sospecha diagnostica,tosferina,2001-03-01,1,0,0,0,0,1
+20101,LA PAZ,sospecha diagnostica,tosferina,2001-04-01,3,0,0,0,0,3
+71001,MONTERO,sospecha diagnostica,tosferina,2001-04-01,1,0,0,0,0,1
+31001,SACABA,sospecha diagnostica,tosferina,2001-04-01,0,0,1,0,0,1
+20101,LA PAZ,sospecha diagnostica,tosferina,2001-05-01,3,2,0,0,0,5
+71001,MONTERO,sospecha diagnostica,tosferina,2001-05-01,1,0,0,0,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,tosferina,2001-05-01,1,2,0,0,0,3
+20105,EL ALTO,sospecha diagnostica,tosferina,2001-06-01,0,0,1,0,0,1
+20101,LA PAZ,sospecha diagnostica,tosferina,2001-06-01,4,0,0,0,0,4
+40101,ORURO,sospecha diagnostica,tosferina,2001-06-01,1,0,0,0,0,1
+31001,SACABA,sospecha diagnostica,tosferina,2001-06-01,1,0,0,0,0,1
+40102,CARACOLLO,sospecha diagnostica,tosferina,2001-07-01,0,0,1,0,0,1
+20101,LA PAZ,sospecha diagnostica,tosferina,2001-07-01,1,2,0,0,0,3
+60301,YACUIBA,sospecha diagnostica,tosferina,2001-07-01,0,1,0,0,0,1
+20101,LA PAZ,sospecha diagnostica,tosferina,2001-08-01,4,2,0,0,0,6
+41401,SANTIAGO DE HUARI,sospecha diagnostica,tosferina,2001-08-01,1,0,0,0,0,1
+60101,TARIJA,sospecha diagnostica,tosferina,2001-08-01,2,0,0,0,0,2
+60301,YACUIBA,sospecha diagnostica,tosferina,2001-08-01,3,0,0,0,0,3
+20101,LA PAZ,sospecha diagnostica,tosferina,2001-09-01,3,1,1,0,0,5
+60301,YACUIBA,sospecha diagnostica,tosferina,2001-09-01,1,0,0,0,0,1
+20101,LA PAZ,sospecha diagnostica,tosferina,2001-10-01,4,2,0,0,0,6
+31003,VILLA TUNARI,sospecha diagnostica,tosferina,2001-10-01,1,1,0,0,0,2
+20101,LA PAZ,sospecha diagnostica,tosferina,2001-11-01,7,4,0,0,0,11
+31003,VILLA TUNARI,sospecha diagnostica,tosferina,2001-11-01,1,2,0,0,0,3
+30101,COCHABAMBA,sospecha diagnostica,tosferina,2001-12-01,1,0,0,0,0,1
+20101,LA PAZ,sospecha diagnostica,tosferina,2001-12-01,4,0,1,1,0,6
+71001,MONTERO,sospecha diagnostica,tosferina,2001-12-01,1,0,0,0,0,1
+50101,POTOSI,sospecha diagnostica,tosferina,2001-12-01,1,0,0,0,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,tosferina,2001-12-01,0,1,0,0,0,1

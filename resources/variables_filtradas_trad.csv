@@ -1,0 +1,199 @@
+﻿year,grvar,grupo,subvar,variable
+2005,01,diagnostic suspicion,03,whooping cough
+2005,01,diagnostic suspicion,04,diphtheria
+2005,02,diagnostic suspicion,09,Bolivian hemorrhagic fever
+2005,02,diagnostic suspicion,14,hantavirus disease
+2005,06,other infections,02,acute respiratory infection without pneumonia
+2005,06,other infections,03,pneumonia
+2005,06,other infections,04,malaria
+2005,06,other infections,05,leishmaniasis
+2005,07,tuberculosis and leprosy,01, respiratory symptomatic
+2005,07,tuberculosis and leprosy,03,pulmonary tuberculosis smear positive new cases
+2005,07,tuberculosis and leprosy,04,pulmonary tuberculosis smear negative new cases
+2005,09,institutional mortality,05,under 5 mortality due to pneumonia
+2006,01,diagnostic suspicion,03,whooping cough
+2006,01,diagnostic suspicion,04,diphtheria
+2006,02,diagnostic suspicion,09,Bolivian hemorrhagic fever
+2006,02,diagnostic suspicion,14,hantavirus disease
+2006,06,other infections,02,acute respiratory infection without pneumonia
+2006,06,other infections,03,pneumonia
+2006,06,other infections,04,malaria
+2006,06,other infections,05,leishmaniasis
+2006,07,tuberculosis and leprosy,01, respiratory symptomatic
+2006,07,tuberculosis and leprosy,03,pulmonary tuberculosis smear positive new cases
+2006,07,tuberculosis and leprosy,04,pulmonary tuberculosis smear negative new cases
+2006,09,institutional mortality,05,under 5 mortality due to pneumonia
+2007,01,diagnostic suspicion,03,whooping cough
+2007,01,diagnostic suspicion,04,diphtheria
+2007,02,diagnostic suspicion,09,Bolivian hemorrhagic fever
+2007,02,diagnostic suspicion,14,hantavirus disease
+2007,06,other infections,02,acute respiratory infection without pneumonia
+2007,06,other infections,03,pneumonia
+2007,06,other infections,04,malaria
+2007,06,other infections,05,leishmaniasis
+2007,07,tuberculosis and leprosy,01, respiratory symptomatic
+2007,07,tuberculosis and leprosy,03,pulmonary tuberculosis smear positive new cases
+2007,07,tuberculosis and leprosy,04,pulmonary tuberculosis smear negative new cases
+2007,09,institutional mortality,05,under 5 mortality due to pneumonia
+2008,01,diagnostic suspicion,03,whooping cough
+2008,01,diagnostic suspicion,04,diphtheria
+2008,02,diagnostic suspicion,09,Bolivian hemorrhagic fever
+2008,02,diagnostic suspicion,14,hantavirus disease
+2008,02,diagnostic suspicion,17,avian influenza pandemic
+2008,06,other infections,02,acute respiratory infection without pneumonia
+2008,06,other infections,03,pneumonia
+2008,06,other infections,04,malaria
+2008,06,other infections,05,leishmaniasis
+2008,09,institutional mortality,05,under 5 mortality due to pneumonia
+2009,01,diagnostic suspicion,03,whooping cough
+2009,01,diagnostic suspicion,04,diphtheria
+2009,02,diagnostic suspicion,09,Bolivian hemorrhagic fever
+2009,02,diagnostic suspicion,14,hantavirus disease
+2009,02,diagnostic suspicion,17,avian influenza pandemic
+2009,06,other infections,02,acute respiratory infection without pneumonia
+2009,06,other infections,03,pneumonia
+2009,06,other infections,04,malaria
+2009,06,other infections,05,leishmaniasis
+2009,09,institutional mortality,05,under 5 mortality due to pneumonia
+2010,01,diagnostic suspicion,03,whooping cough
+2010,01,diagnostic suspicion,04,diphtheria
+2010,01,diagnostic suspicion,09,Bolivian hemorrhagic fever
+2010,02,diagnostic suspicion,14,hantavirus disease
+2010,02,diagnostic suspicion,17,influenza pandemic
+2010,06,other infections,02,acute respiratory infection without pneumonia
+2010,06,other infections,03,pneumonia
+2010,06,other infections,04,suspected malaria cases
+2010,06,other infections,05,suspected leishmaniasis cases
+2010,06,other infections,07,acute Chagas disease
+2010,06,other infections,08,confirmed malaria cases
+2010,06,other infections,09,confirmed leishmaniasis cases
+2010,09,mortality,08,under 5 mortality due to pneumonia
+2011,01,diagnostic suspicion,03,whooping cough
+2011,01,diagnostic suspicion,04,diphtheria
+2011,01,diagnostic suspicion,09,Bolivian hemorrhagic fever
+2011,02,diagnostic suspicion,14,hantavirus disease
+2011,02,diagnostic suspicion,17,influenza pandemic
+2011,06,other infections,02,acute respiratory infection without pneumonia
+2011,06,other infections,03,pneumonia
+2011,06,other infections,04,suspected malaria cases
+2011,06,other infections,05,suspected leishmaniasis cases
+2011,06,other infections,07,acute Chagas disease
+2011,06,other infections,08,confirmed malaria cases
+2011,06,other infections,09,confirmed leishmaniasis cases
+2011,09,mortality,05,under 5 mortality due to pneumonia
+2012,01,diagnostic suspicion,03,whooping cough
+2012,01,diagnostic suspicion,04,diphtheria
+2012,01,diagnostic suspicion,09,Bolivian hemorrhagic fever
+2012,02,diagnostic suspicion,14,hantavirus disease
+2012,02,diagnostic suspicion,17,influenza pandemic
+2012,06,other infections,02,acute respiratory infection without pneumonia
+2012,06,other infections,03,pneumonia
+2012,06,other infections,04,suspected malaria cases
+2012,06,other infections,05,suspected leishmaniasis cases
+2012,06,other infections,07,acute Chagas disease
+2012,06,other infections,08,confirmed malaria cases
+2012,06,other infections,09,confirmed leishmaniasis cases
+2012,09,mortality,05,under 5 mortality due to pneumonia
+2013,01,diagnostic suspicion,03,whooping cough
+2013,01,diagnostic suspicion,04,diphtheria
+2013,01,diagnostic suspicion,09,Bolivian hemorrhagic fever
+2013,02,diagnostic suspicion,14,hantavirus disease
+2013,02,diagnostic suspicion,17,influenza pandemic
+2013,06,other infections,02,acute respiratory infection without pneumonia
+2013,06,other infections,03,pneumonia
+2013,06,other infections,04,suspected malaria cases
+2013,06,other infections,05,suspected leishmaniasis cases
+2013,06,other infections,07,acute Chagas disease
+2013,06,other infections,08,confirmed malaria cases
+2013,06,other infections,09,confirmed leishmaniasis cases
+2013,09,mortality,05,under 5 mortality due to pneumonia
+2014,01,diagnostic suspicion,03,whooping cough
+2014,01,diagnostic suspicion,04,diphtheria
+2014,01,diagnostic suspicion,09,Bolivian hemorrhagic fever
+2014,02,diagnostic suspicion,14,hantavirus disease
+2014,02,diagnostic suspicion,17,influenza pandemic
+2014,06,other infections,02,acute respiratory infection without pneumonia
+2014,06,other infections,03,pneumonia
+2014,06,other infections,04,suspected malaria cases
+2014,06,other infections,05,suspected leishmaniasis cases
+2014,06,other infections,07,acute Chagas disease
+2014,06,other infections,08,confirmed malaria cases
+2014,06,other infections,09,confirmed leishmaniasis cases
+2014,09,mortality,05,under 5 mortality due to pneumonia
+2015,01,diagnostic suspicion,13,whooping cough
+2015,01,diagnostic suspicion,14,diphtheria
+2015,01,diagnostic suspicion,18,Bolivian hemorrhagic fever
+2015,01,diagnostic suspicion,22,hantavirus disease
+2015,01,diagnostic suspicion,25,influenza severe acute respiratory infection severe acute respiratory infection with influenza and influenza like illness
+2015,06,other infections,11,acute respiratory infection without pneumonia
+2015,06,other infections,12,pneumonia
+2015,09,mortality,10,under 5 mortality due to pneumonia
+2015,17,vector-borne diseases (VBD),01,leishmaniasis
+2015,17,vector-borne diseases (VBD),02,acute Chagas disease
+2015,17,vector-borne diseases (VBD),04,malaria
+2016,01,diagnostic suspicion,13,whooping cough
+2016,01,diagnostic suspicion,14,diphtheria
+2016,01,diagnostic suspicion,18,Bolivian hemorrhagic fever
+2016,01,diagnostic suspicion,22,hantavirus disease
+2016,01,diagnostic suspicion,25,influenza severe acute respiratory infection severe acute respiratory infection with influenza and influenza like illness
+2016,06,other infections,11,acute respiratory infection without pneumonia
+2016,06,other infections,12,pneumonia
+2016,09,mortality,10,under 5 mortality due to pneumonia
+2016,17,vector-borne diseases (VBD),01,leishmaniasis
+2016,17,vector-borne diseases (VBD),02,acute Chagas disease
+2016,17,vector-borne diseases (VBD),04,malaria
+2017,01,diagnostic suspicion,13,whooping cough
+2017,01,diagnostic suspicion,14,diphtheria
+2017,01,diagnostic suspicion,18,Bolivian hemorrhagic fever
+2017,01,diagnostic suspicion,22,hantavirus disease
+2017,01,diagnostic suspicion,25,influenza severe acute respiratory infection severe acute respiratory infection with influenza and influenza like illness
+2017,06,other infections,11,acute respiratory infection without pneumonia
+2017,06,other infections,12,pneumonia
+2017,09,mortality,10,under 5 mortality due to pneumonia
+2017,17,vector-borne diseases (VBD),01,leishmaniasis
+2017,17,vector-borne diseases (VBD),02,acute Chagas disease
+2017,17,vector-borne diseases (VBD),04,malaria
+2018,01,diagnostic suspicion,13,whooping cough
+2018,01,diagnostic suspicion,14,diphtheria
+2018,01,diagnostic suspicion,18,Bolivian hemorrhagic fever
+2018,01,diagnostic suspicion,22,hantavirus disease
+2018,01,diagnostic suspicion,25,influenza severe acute respiratory infection severe acute respiratory infection with influenza and influenza like illness
+2018,06,other infections,11,acute respiratory infection without pneumonia
+2018,06,other infections,12,pneumonia
+2018,09,mortality,10,under 5 mortality due to pneumonia
+2018,17,vector-borne diseases (VBD),01,leishmaniasis
+2018,17,vector-borne diseases (VBD),02,acute Chagas disease
+2018,17,vector-borne diseases (VBD),04,malaria
+2019,01,diagnostic suspicion,13,whooping cough
+2019,01,diagnostic suspicion,14,diphtheria
+2019,01,diagnostic suspicion,18,Bolivian hemorrhagic fever
+2019,01,diagnostic suspicion,22,hantavirus disease
+2019,01,diagnostic suspicion,25,influenza severe acute respiratory infection severe acute respiratory infection with influenza and influenza like illness
+2019,06,other infections,11,acute respiratory infection without pneumonia
+2019,06,other infections,12,pneumonia
+2019,09,mortality,10,under 5 mortality due to pneumonia
+2019,17,vector-borne diseases (VBD),01,leishmaniasis
+2019,17,vector-borne diseases (VBD),02,acute Chagas disease
+2019,17,vector-borne diseases (VBD),04,malaria
+2020,01,diagnostic suspicion,13,whooping cough
+2020,01,diagnostic suspicion,14,diphtheria
+2020,01,diagnostic suspicion,18,hemorrhagic fever
+2020,01,diagnostic suspicion,22,hantavirus disease
+2020,01,diagnostic suspicion,25,influenza severe acute respiratory infection severe acute respiratory infection with influenza and influenza like illness
+2020,06,other infections,11,acute respiratory infection without pneumonia
+2020,06,other infections,12,pneumonia
+2020,09,mortality,10,under 5 mortality due to pneumonia
+2020,17,vector-borne diseases (VBD),01,leishmaniasis
+2020,17,vector-borne diseases (VBD),02,acute Chagas disease
+2020,17,vector-borne diseases (VBD),04,malaria
+2021,01,diagnostic suspicion,13,whooping cough
+2021,01,diagnostic suspicion,14,diphtheria
+2021,01,diagnostic suspicion,18,hemorrhagic fever
+2021,01,diagnostic suspicion,22,hantavirus disease
+2021,01,diagnostic suspicion,25,influenza severe acute respiratory infection severe acute respiratory infection with influenza and influenza like illness
+2021,06,other infections,11,acute respiratory infection without pneumonia
+2021,06,other infections,12,pneumonia
+2021,09,mortality,10,under 5 mortality due to pneumonia
+2021,17,vector-borne diseases (VBD),01,leishmaniasis
+2021,17,vector-borne diseases (VBD),02,acute Chagas disease
+2021,17,vector-borne diseases (VBD),04,malaria

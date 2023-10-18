@@ -1,0 +1,199 @@
+﻿year,grvar,grupo,subvar,variable
+2005,01,sospecha diagnostica,03,tos ferina
+2005,01,sospecha diagnostica,04,difteria
+2005,02,sospecha diagnostica,09,fiebre hemorrag. bol
+2005,02,sospecha diagnostica,14,enfer. por hanta virus
+2005,06,otras infecciones,02,ira sin neumonia
+2005,06,otras infecciones,03,neumonia
+2005,06,otras infecciones,04,malaria
+2005,06,otras infecciones,05,leishmaniasis
+2005,07,tuberculosis y lepra,01,sintomatico respiratorio
+2005,07,tuberculosis y lepra,03,tuberculosis pulmonar baar positivo nuevos
+2005,07,tuberculosis y lepra,04,tuberculosis pulmonar baar negativo nuevos
+2005,09,mortalidad institucional,05,muerte menor de 5 anos por neumonia
+2006,01,sospecha diagnostica,03,tos ferina
+2006,01,sospecha diagnostica,04,difteria
+2006,02,sospecha diagnostica,09,fiebre hemorrag. bol
+2006,02,sospecha diagnostica,14,enfer. por hanta virus
+2006,06,otras infecciones,02,ira sin neumonia
+2006,06,otras infecciones,03,neumonia
+2006,06,otras infecciones,04,malaria
+2006,06,otras infecciones,05,leishmaniasis
+2006,07,tuberculosis y lepra,01,sintomatico respiratorio
+2006,07,tuberculosis y lepra,03,tuberculosis pulmonar baar positivo nuevos
+2006,07,tuberculosis y lepra,04,tuberculosis pulmonar baar negativo nuevos
+2006,09,mortalidad institucional,05,muerte menor de 5 anos por neumonia
+2007,01,sospecha diagnostica,03,tos ferina
+2007,01,sospecha diagnostica,04,difteria
+2007,02,sospecha diagnostica,09,fiebre hemorrag. bol
+2007,02,sospecha diagnostica,14,enfer. por hanta virus
+2007,06,otras infecciones,02,ira sin neumonia
+2007,06,otras infecciones,03,neumonia
+2007,06,otras infecciones,04,malaria
+2007,06,otras infecciones,05,leishmaniasis
+2007,07,tuberculosis y lepra,01,sintomatico respiratorio
+2007,07,tuberculosis y lepra,03,tuberculosis pulmonar baar positivo nuevos
+2007,07,tuberculosis y lepra,04,tuberculosis pulmonar baar negativo nuevos
+2007,09,mortalidad institucional,05,muerte menor de 5 anos por neumonia
+2008,01,sospecha diagnostica,03,tos ferina
+2008,01,sospecha diagnostica,04,difteria
+2008,02,sospecha diagnostica,09,fiebre hemorrag. bol
+2008,02,sospecha diagnostica,14,enfer. por hanta virus
+2008,02,sospecha diagnostica,17,influenza aviar - pandemica
+2008,06,otras infecciones,02,ira sin neumonia
+2008,06,otras infecciones,03,neumonia
+2008,06,otras infecciones,04,malaria
+2008,06,otras infecciones,05,leishmaniasis
+2008,09,mortalidad institucional,05,muerte menor de 5 anos por neumonia
+2009,01,sospecha diagnostica,03,tos ferina
+2009,01,sospecha diagnostica,04,difteria
+2009,02,sospecha diagnostica,09,fiebre hemorrag. bol
+2009,02,sospecha diagnostica,14,enfer. por hanta virus
+2009,02,sospecha diagnostica,17,influenza aviar - pandemica
+2009,06,otras infecciones,02,ira sin neumonia
+2009,06,otras infecciones,03,neumonia
+2009,06,otras infecciones,04,malaria
+2009,06,otras infecciones,05,leishmaniasis
+2009,09,mortalidad institucional,05,muerte menor de 5 anos por neumonia
+2010,01,sospecha diagnostica,03,tos ferina
+2010,01,sospecha diagnostica,04,difteria
+2010,01,sospecha diagnostica,09,fiebre hemorragica boliviana
+2010,02,sospecha diagnostica,14,enfermedad por hanta virus
+2010,02,sospecha diagnostica,17,influenza - pandemica
+2010,06,otras infecciones,02,ira sin neumonia
+2010,06,otras infecciones,03,neumonia
+2010,06,otras infecciones,04,malaria sospechosos
+2010,06,otras infecciones,05,leishmaniasis sospechosos
+2010,06,otras infecciones,07,chagas agudo
+2010,06,otras infecciones,08,malaria confirmados
+2010,06,otras infecciones,09,leishmaniasis confirmados
+2010,09,mortalidad,08,muerte menor de 5 anos por neumonia
+2011,01,sospecha diagnostica,03,tos ferina
+2011,01,sospecha diagnostica,04,difteria
+2011,01,sospecha diagnostica,09,fiebre hemorragica boliviana
+2011,02,sospecha diagnostica,14,enfermedad por hanta virus
+2011,02,sospecha diagnostica,17,influenza - pandemica
+2011,06,otras infecciones,02,ira sin neumonia
+2011,06,otras infecciones,03,neumonia
+2011,06,otras infecciones,04,malaria sospechosos
+2011,06,otras infecciones,05,leishmaniasis sospechosos
+2011,06,otras infecciones,07,chagas agudo
+2011,06,otras infecciones,08,malaria confirmados
+2011,06,otras infecciones,09,leishmaniasis confirmados
+2011,09,mortalidad,05,muerte menor de 5 anos por neumonia
+2012,01,sospecha diagnostica,03,tos ferina
+2012,01,sospecha diagnostica,04,difteria
+2012,01,sospecha diagnostica,09,fiebre hemorragica boliviana
+2012,02,sospecha diagnostica,14,enfermedad por hanta virus
+2012,02,sospecha diagnostica,17,influenza - pandemica
+2012,06,otras infecciones,02,ira sin neumonia
+2012,06,otras infecciones,03,neumonia
+2012,06,otras infecciones,04,malaria sospechosos
+2012,06,otras infecciones,05,leishmaniasis sospechosos
+2012,06,otras infecciones,07,chagas agudo
+2012,06,otras infecciones,08,malaria confirmados
+2012,06,otras infecciones,09,leishmaniasis confirmados
+2012,09,mortalidad,05,muerte menor de 5 anos por neumonia
+2013,01,sospecha diagnostica,03,tos ferina
+2013,01,sospecha diagnostica,04,difteria
+2013,01,sospecha diagnostica,09,fiebre hemorragica boliviana
+2013,02,sospecha diagnostica,14,enfermedad por hanta virus
+2013,02,sospecha diagnostica,17,influenza - pandemica
+2013,06,otras infecciones,02,ira sin neumonia
+2013,06,otras infecciones,03,neumonia
+2013,06,otras infecciones,04,malaria sospechosos
+2013,06,otras infecciones,05,leishmaniasis sospechosos
+2013,06,otras infecciones,07,chagas agudo
+2013,06,otras infecciones,08,malaria confirmados
+2013,06,otras infecciones,09,leishmaniasis confirmados
+2013,09,mortalidad,05,muerte menor de 5 anos por neumonia
+2014,01,sospecha diagnostica,03,tos ferina
+2014,01,sospecha diagnostica,04,difteria
+2014,01,sospecha diagnostica,09,fiebre hemorragica boliviana
+2014,02,sospecha diagnostica,14,enfermedad por hanta virus
+2014,02,sospecha diagnostica,17,influenza - pandemica
+2014,06,otras infecciones,02,ira sin neumonia
+2014,06,otras infecciones,03,neumonia
+2014,06,otras infecciones,04,malaria sospechosos
+2014,06,otras infecciones,05,leishmaniasis sospechosos
+2014,06,otras infecciones,07,chagas agudo
+2014,06,otras infecciones,08,malaria confirmados
+2014,06,otras infecciones,09,leishmaniasis confirmados
+2014,09,mortalidad,05,muerte menor de 5 anos por neumonia
+2015,01,sospecha diagnostica,13,tos ferina - coqueluche
+2015,01,sospecha diagnostica,14,difteria
+2015,01,sospecha diagnostica,18,fiebre hemorragica boliviana
+2015,01,sospecha diagnostica,22,enfermedad por hanta virus
+2015,01,sospecha diagnostica,25,influenza irag iragi y eti
+2015,06,otras infecciones,11,ira sin neumonia
+2015,06,otras infecciones,12,neumonia
+2015,09,mortalidad,10,muerte menor de 5 anos por neumonia
+2015,17,enfermedades transmitidas por vectores (etv),01,leishmaniasis
+2015,17,enfermedades transmitidas por vectores (etv),02,chagas agudo
+2015,17,enfermedades transmitidas por vectores (etv),04,malaria
+2016,01,sospecha diagnostica,13,tos ferina - coqueluche
+2016,01,sospecha diagnostica,14,difteria
+2016,01,sospecha diagnostica,18,fiebre hemorragica boliviana
+2016,01,sospecha diagnostica,22,enfermedad por hanta virus
+2016,01,sospecha diagnostica,25,influenza irag iragi y eti
+2016,06,otras infecciones,11,ira sin neumonia
+2016,06,otras infecciones,12,neumonia
+2016,09,mortalidad,10,muerte menor de 5 anos por neumonia
+2016,17,enfermedades transmitidas por vectores (etv),01,leishmaniasis
+2016,17,enfermedades transmitidas por vectores (etv),02,chagas agudo
+2016,17,enfermedades transmitidas por vectores (etv),04,malaria
+2017,01,sospecha diagnostica,13,tos ferina - coqueluche
+2017,01,sospecha diagnostica,14,difteria
+2017,01,sospecha diagnostica,18,fiebre hemorragica boliviana
+2017,01,sospecha diagnostica,22,enfermedad por hanta virus
+2017,01,sospecha diagnostica,25,influenza irag iragi y eti
+2017,06,otras infecciones,11,ira sin neumonia
+2017,06,otras infecciones,12,neumonia
+2017,09,mortalidad,10,muerte menor de 5 anos por neumonia
+2017,17,enfermedades transmitidas por vectores (etv),01,leishmaniasis
+2017,17,enfermedades transmitidas por vectores (etv),02,chagas agudo
+2017,17,enfermedades transmitidas por vectores (etv),04,malaria
+2018,01,sospecha diagnostica,13,tos ferina - coqueluche
+2018,01,sospecha diagnostica,14,difteria
+2018,01,sospecha diagnostica,18,fiebre hemorragica boliviana
+2018,01,sospecha diagnostica,22,enfermedad por hanta virus
+2018,01,sospecha diagnostica,25,influenza irag iragi y eti
+2018,06,otras infecciones,11,ira sin neumonia
+2018,06,otras infecciones,12,neumonia
+2018,09,mortalidad,10,muerte menor de 5 anos por neumonia
+2018,17,enfermedades transmitidas por vectores (etv),01,leishmaniasis
+2018,17,enfermedades transmitidas por vectores (etv),02,chagas agudo
+2018,17,enfermedades transmitidas por vectores (etv),04,malaria
+2019,01,sospecha diagnostica,13,tos ferina - coqueluche
+2019,01,sospecha diagnostica,14,difteria
+2019,01,sospecha diagnostica,18,fiebre hemorragica boliviana
+2019,01,sospecha diagnostica,22,enfermedad por hanta virus
+2019,01,sospecha diagnostica,25,influenza irag iragi y eti
+2019,06,otras infecciones,11,ira sin neumonia
+2019,06,otras infecciones,12,neumonia
+2019,09,mortalidad,10,muerte menor de 5 anos por neumonia
+2019,17,enfermedades transmitidas por vectores (etv),01,leishmaniasis
+2019,17,enfermedades transmitidas por vectores (etv),02,chagas agudo
+2019,17,enfermedades transmitidas por vectores (etv),04,malaria
+2020,01,sospecha diagnostica,13,tos ferina - coqueluche
+2020,01,sospecha diagnostica,14,difteria
+2020,01,sospecha diagnostica,18,fiebre hemorragica
+2020,01,sospecha diagnostica,22,enfermedad por hanta virus
+2020,01,sospecha diagnostica,25,influenza irag iragi y eti
+2020,06,otras infecciones,11,ira sin neumonia
+2020,06,otras infecciones,12,neumonia
+2020,09,mortalidad,10,muerte menor de 5 anos por neumonia
+2020,17,enfermedades transmitidas por vectores (etv),01,leishmaniasis
+2020,17,enfermedades transmitidas por vectores (etv),02,chagas agudo
+2020,17,enfermedades transmitidas por vectores (etv),04,malaria
+2021,01,sospecha diagnostica,13,tos ferina - coqueluche
+2021,01,sospecha diagnostica,14,difteria
+2021,01,sospecha diagnostica,18,fiebre hemorragica
+2021,01,sospecha diagnostica,22,enfermedad por hanta virus
+2021,01,sospecha diagnostica,25,influenza irag iragi y eti
+2021,06,otras infecciones,11,ira sin neumonia
+2021,06,otras infecciones,12,neumonia
+2021,09,mortalidad,10,muerte menor de 5 anos por neumonia
+2021,17,enfermedades transmitidas por vectores (etv),01,leishmaniasis
+2021,17,enfermedades transmitidas por vectores (etv),02,chagas agudo
+2021,17,enfermedades transmitidas por vectores (etv),04,malaria

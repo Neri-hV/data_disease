@@ -1,0 +1,343 @@
+departamento,codigo_municipio,municipio,DEPARTAMENTO,grupo,variable,year,menores a 1 año,de 1 a 4 años,de 5 a 14 años,de 15 a 59 años,de 60 y más años,total
+CHUQUISACA,10101,SUCRE,CHUQUISACA,sospecha diagnostica,difteria,2005,0,2,0,0,0,2
+CHUQUISACA,10102,YOTALA,CHUQUISACA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+CHUQUISACA,10103,POROMA,CHUQUISACA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+CHUQUISACA,10201,AZURDUY,CHUQUISACA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+CHUQUISACA,10202,TARVITA,CHUQUISACA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+CHUQUISACA,10301,ZUDAÑEZ,CHUQUISACA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+CHUQUISACA,10302,PRESTO,CHUQUISACA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+CHUQUISACA,10303,MOJOCOYA,CHUQUISACA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+CHUQUISACA,10304,ICLA,CHUQUISACA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+CHUQUISACA,10401,PADILLA,CHUQUISACA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+CHUQUISACA,10402,TOMINA,CHUQUISACA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+CHUQUISACA,10403,SOPACHUY,CHUQUISACA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+CHUQUISACA,10404,ALCALA,CHUQUISACA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+CHUQUISACA,10405,EL VILLAR,CHUQUISACA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+CHUQUISACA,10501,MONTEAGUDO,CHUQUISACA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+CHUQUISACA,10502,HUACARETA,CHUQUISACA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+CHUQUISACA,10601,TARABUCO,CHUQUISACA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+CHUQUISACA,10602,YAMPARAEZ,CHUQUISACA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+CHUQUISACA,10701,CAMARGO,CHUQUISACA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+CHUQUISACA,10702,SAN LUCAS,CHUQUISACA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+CHUQUISACA,10703,INCAHUASI,CHUQUISACA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+CHUQUISACA,10704,VILLA CHARCAS,,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+CHUQUISACA,10801,VILLA SERRANO,CHUQUISACA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+CHUQUISACA,10901,CAMATAQUI (C. VILLA ABECIA),CHUQUISACA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+CHUQUISACA,10902,CULPINA,CHUQUISACA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+CHUQUISACA,10903,LAS CARRERAS,CHUQUISACA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+CHUQUISACA,11001,VILLA VACA GUZMAN (MUYUPAMPA),CHUQUISACA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+CHUQUISACA,11002,HUACAYA (VILLA DE HUACAYA),CHUQUISACA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+CHUQUISACA,11003,MACHARETI,CHUQUISACA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,20101,LA PAZ,LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,2,0,2
+LA PAZ,20102,PALCA,LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,20103,MECAPACA,LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,20104,ACHOCALLA,LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,20105,EL ALTO,LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,20201,ACHACACHI,LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,20202,ANCORAIMES,LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,20203,CHUA COCANI,,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,20204,HUARINA,,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,20205,SANTIAGO DE HUATA,,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,20206,HUATAJATA,,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,20301,CORO CORO,LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,20302,CAQUIAVIRI,LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,20303,CALACOTO,LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,20304,COMANCHE,LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,20305,CHARAÑA,LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,20306,WALDO BALLIVIAN,LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,20307,NAZACARA DE PACAJES,LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,20308,SANTIAGO DE CALLAPA,LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,20401,PUERTO ACOSTA,LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,20402,MOCOMOCO,LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,20403,PUERTO CARABUCO,LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,20404,HUMANATA,,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,20405,ESCOMA,,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,20501,CHUMA,LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,20502,AYATA,LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,20503,AUCAPATA,LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,20601,SORATA,LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,20602,GUANAY,LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,20603,TACACOMA,LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,20604,QUIABAYA,LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,20605,COMBAYA,LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,20606,TIPUANI,LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,20607,MAPIRI,LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,20608,TEOPONTE,LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,20701,APOLO,LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,20702,PELECHUCO,LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,20801,VIACHA,LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,20802,GUAQUI,LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,20803,TIAWANACU,LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,20804,DESAGUADERO,LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,20805,SAN ANDRES DE MACHACA,LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,20806,JESUS DE MACHACA,LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,20807,TARACO,LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,20901,LURIBAY,LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,20902,SAPAHAQUI,LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,20903,YACO,LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,20904,MALLA,LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,20905,CAIROMA,LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,21001,INQUISIVI,LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,21002,QUIME,LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,21003,CAJUATA,LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,21004,COLQUIRI,LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,21005,ICHOCA,LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,21006,LICOMA PAMPA,LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,21101,CHULUMANI (V. DE LA LIBERTAD),LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,21102,IRUPANA (VILLA DE LANZA),LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,21103,YANACACHI,LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,21104,PALOS BLANCOS,LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,21105,LA ASUNTA,LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,21201,PUCARANI,LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,21202,LAJA,LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,21203,BATALLAS,LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,21204,PUERTO PEREZ,LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,21301,SICA SICA (VILLA AROMA),LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,21302,UMALA,LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,21303,AYO AYO,LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,21304,CALAMARCA,LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,21305,PATACAMAYA,LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,21306,COLQUENCHA,LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,21307,COLLANA,LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,21401,COROICO,LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,21402,CORIPATA,LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,21501,IXIAMAS,LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,21502,SAN BUENA VENTURA,LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,21601,GRAL. J.J. PEREZ (CHARAZANI),LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,21602,CURVA,LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,21701,COPACABANA,LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,21702,SAN PEDRO DE TIQUINA,LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,21703,TITO YUPANQUI (PARQUIPUJIO),LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,21801,SAN PEDRO DE CURAHUARA,LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,21802,PAPEL PAMPA,LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,21803,CHACARILLA,LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,21901,SANTIAGO DE MACHACA,LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,21902,CATACORA,LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,22001,CARANAVI,LA PAZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,22002,ALTO BENI,,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+LA PAZ,22004,HUMANATA,,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+COCHABAMBA,30101,COCHABAMBA,COCHABAMBA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+COCHABAMBA,30201,AIQUILE,COCHABAMBA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+COCHABAMBA,30202,PASORAPA,COCHABAMBA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+COCHABAMBA,30203,OMEREQUE,COCHABAMBA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+COCHABAMBA,30301,AYOPAYA (V. DE INDEPENDENCIA),COCHABAMBA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+COCHABAMBA,30302,MOROCHATA,COCHABAMBA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+COCHABAMBA,30303,COCAPATA,,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+COCHABAMBA,30401,TARATA,COCHABAMBA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+COCHABAMBA,30402,ANZALDO,COCHABAMBA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+COCHABAMBA,30403,ARBIETO,COCHABAMBA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+COCHABAMBA,30404,SACABAMBA,COCHABAMBA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+COCHABAMBA,30501,ARANI,COCHABAMBA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+COCHABAMBA,30502,VACAS,COCHABAMBA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+COCHABAMBA,30601,ARQUE,COCHABAMBA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+COCHABAMBA,30602,TACOPAYA,COCHABAMBA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+COCHABAMBA,30701,CAPINOTA,COCHABAMBA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+COCHABAMBA,30702,SANTIVAÑES,COCHABAMBA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+COCHABAMBA,30703,SICAYA,COCHABAMBA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+COCHABAMBA,30801,CLIZA,COCHABAMBA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+COCHABAMBA,30802,TOCO,COCHABAMBA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+COCHABAMBA,30803,TOLATA,COCHABAMBA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+COCHABAMBA,30901,QUILLACOLLO,COCHABAMBA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+COCHABAMBA,30902,SIPE SIPE,COCHABAMBA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+COCHABAMBA,30903,TIQUIPAYA,COCHABAMBA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+COCHABAMBA,30904,VINTO,COCHABAMBA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+COCHABAMBA,30905,COLCAPIRHUA,COCHABAMBA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+COCHABAMBA,31001,SACABA,COCHABAMBA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+COCHABAMBA,31002,COLOMI,COCHABAMBA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+COCHABAMBA,31003,VILLA TUNARI,COCHABAMBA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+COCHABAMBA,31101,TAPACARI,COCHABAMBA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+COCHABAMBA,31201,TOTORA(CBBA),COCHABAMBA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+COCHABAMBA,31202,POJO (CBBA),COCHABAMBA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+COCHABAMBA,31203,POCONA,COCHABAMBA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+COCHABAMBA,31204,CHIMORE,COCHABAMBA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+COCHABAMBA,31205,PUERTO VILLARROEL,COCHABAMBA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+COCHABAMBA,31206,ENTRE RIOS CBBA,,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+COCHABAMBA,31301,MIZQUE,COCHABAMBA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+COCHABAMBA,31302,VILA VILA,COCHABAMBA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+COCHABAMBA,31303,ALALAY,COCHABAMBA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+COCHABAMBA,31304,RAQAYPAMPA(ETA),,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+COCHABAMBA,31401,PUNATA,COCHABAMBA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+COCHABAMBA,31402,VILLA RIVERO,COCHABAMBA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+COCHABAMBA,31403,SAN BENITO,COCHABAMBA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+COCHABAMBA,31404,TACACHI,COCHABAMBA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+COCHABAMBA,31405,CUCHUMUELA (V. G. VILLARROEL),COCHABAMBA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+COCHABAMBA,31501,BOLIVAR,COCHABAMBA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+COCHABAMBA,31601,TIRAQUE (CBBA),COCHABAMBA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+COCHABAMBA,31602,SHINAOTA,,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+ORURO,40101,ORURO,ORURO,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+ORURO,40102,CARACOLLO,ORURO,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+ORURO,40103,EL CHORO,ORURO,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+ORURO,40104,SORACACHI,ORURO,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+ORURO,40201,CHALLAPATA,ORURO,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+ORURO,40202,SANTUARIO DE QUILLACAS,ORURO,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+ORURO,40301,CORQUE,ORURO,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+ORURO,40302,CHOQUE COTA,ORURO,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+ORURO,40401,CURAHUARA DE CARANGAS,ORURO,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+ORURO,40402,TURCO,ORURO,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+ORURO,40501,HUACHACALLA,ORURO,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+ORURO,40502,ESCARA,ORURO,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+ORURO,40503,CRUZ DE MACHACAMARCA,,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+ORURO,40504,YUNGUYO DE LITORAL,,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+ORURO,40505,ESMERALDA,,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+ORURO,40601,POOPO,ORURO,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+ORURO,40602,PAZÑA,ORURO,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+ORURO,40603,ANTEQUERA,ORURO,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+ORURO,40701,HUANUNI,ORURO,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+ORURO,40702,MACHACAMARCA,ORURO,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+ORURO,40801,SALINAS DE GARCI MENDOZA,ORURO,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+ORURO,40802,PAMPA AULLAGAS,ORURO,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+ORURO,40901,SABAYA,ORURO,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+ORURO,40902,COIPASA,ORURO,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+ORURO,40903,CHIPAYA,ORURO,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+ORURO,41001,TOLEDO,ORURO,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+ORURO,41101,EUCALIPTUS,ORURO,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+ORURO,41201,ANDAMARCA,ORURO,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+ORURO,41202,BELEN DE ANDAMARCA,ORURO,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+ORURO,41301,TOTORA(ORR),ORURO,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+ORURO,41401,SANTIAGO DE HUARI,ORURO,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+ORURO,41501,LA RIVERA,ORURO,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+ORURO,41502,TODOS SANTOS,ORURO,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+ORURO,41503,CARANGAS,ORURO,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+ORURO,41601,HUAYLLAMARCA,ORURO,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+POTOSI,50101,POTOSI,POTOSI,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+POTOSI,50102,TINGUIPAYA,POTOSI,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+POTOSI,50103,YOCALLA,POTOSI,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+POTOSI,50104,BELEN DE URMIRI,POTOSI,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+POTOSI,50201,UNCIA,POTOSI,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+POTOSI,50202,CHAYANTA,POTOSI,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+POTOSI,50203,LLALLAGUA,POTOSI,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+POTOSI,50204,CHUQUIHUTA AYLLU JUCUMANI,,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+POTOSI,50301,BETANZOS,POTOSI,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+POTOSI,50302,CHAQUI,POTOSI,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+POTOSI,50303,TACOBAMBA,POTOSI,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+POTOSI,50401,COLQUECHACA,POTOSI,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+POTOSI,50402,RAVELO,POTOSI,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+POTOSI,50403,POCOATA,POTOSI,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+POTOSI,50404,OCURI,POTOSI,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+POTOSI,50405,SAN PEDRO DE MACHA,,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+POTOSI,50501,SAN PEDRO DE BUENA VISTA,POTOSI,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+POTOSI,50502,TORO TORO,POTOSI,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+POTOSI,50601,COTAGAITA,POTOSI,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+POTOSI,50602,VITICHI,POTOSI,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+POTOSI,50701,SACACA,POTOSI,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+POTOSI,50702,CARIPUYO,POTOSI,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+POTOSI,50801,TUPIZA,POTOSI,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+POTOSI,50802,ATOCHA,POTOSI,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+POTOSI,50901,"COLCHA ""K""",POTOSI,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+POTOSI,50902,SAN PEDRO DE QUEMES,POTOSI,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+POTOSI,51001,SAN PABLO DE LIPEZ,POTOSI,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+POTOSI,51002,MOJINETE,POTOSI,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+POTOSI,51003,SAN ANTONIO DE ESMORUCO,POTOSI,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+POTOSI,51101,PUNA,POTOSI,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+POTOSI,51102,"CAIZA ""D""",POTOSI,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+POTOSI,51103,CKOCHAS,,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+POTOSI,51201,UYUNI,POTOSI,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+POTOSI,51202,TOMAVE,POTOSI,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+POTOSI,51203,PORCO,POTOSI,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+POTOSI,51301,ARAMPAMPA,POTOSI,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+POTOSI,51302,ACACIO,POTOSI,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+POTOSI,51401,LLICA,POTOSI,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+POTOSI,51402,TAHUA,POTOSI,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+POTOSI,51501,VILLAZON,POTOSI,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+POTOSI,51601,SAN AGUSTIN,POTOSI,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+TARIJA,60101,TARIJA,TARIJA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+TARIJA,60201,PADCAYA,TARIJA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+TARIJA,60202,BERMEJO,TARIJA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+TARIJA,60301,YACUIBA,TARIJA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+TARIJA,60302,CARAPARI,TARIJA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+TARIJA,60303,VILLA MONTES,TARIJA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+TARIJA,60401,URIONDO (A. CONCEPCION),TARIJA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+TARIJA,60402,YUNCHARA,TARIJA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+TARIJA,60501,SAN LORENZO(TJA),TARIJA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+TARIJA,60502,EL PUENTE(TJA),TARIJA,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+TARIJA,60601,ENTRE RIOS TRJ,,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+SANTA CRUZ,70101,SANTA CRUZ DE LA SIERRA,SANTA CRUZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+SANTA CRUZ,70102,COTOCA,SANTA CRUZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+SANTA CRUZ,70103,PORONGO,SANTA CRUZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+SANTA CRUZ,70104,LA GUARDIA,SANTA CRUZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+SANTA CRUZ,70105,EL TORNO,SANTA CRUZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+SANTA CRUZ,70201,WARNES,SANTA CRUZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+SANTA CRUZ,70202,OKINAWA,SANTA CRUZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+SANTA CRUZ,70301,SAN IGNACIO DE VELASCO,SANTA CRUZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+SANTA CRUZ,70302,SAN MIGUEL DE VELASCO,SANTA CRUZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+SANTA CRUZ,70303,SAN RAFAEL,SANTA CRUZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+SANTA CRUZ,70401,BUENA VISTA,SANTA CRUZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+SANTA CRUZ,70402,SAN CARLOS,SANTA CRUZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+SANTA CRUZ,70403,YAPACANI,SANTA CRUZ,sospecha diagnostica,difteria,2005,0,0,0,1,0,1
+SANTA CRUZ,70404,SAN JUAN DE YAPACANI,SANTA CRUZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+SANTA CRUZ,70501,SAN JOSE DE CHIQUITOS,SANTA CRUZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+SANTA CRUZ,70502,PAILON,SANTA CRUZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+SANTA CRUZ,70503,ROBORE,SANTA CRUZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+SANTA CRUZ,70601,PORTACHUELO,SANTA CRUZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+SANTA CRUZ,70602,SANTA ROSA DEL SARA,SANTA CRUZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+SANTA CRUZ,70603,COLPA BELGICA,SANTA CRUZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+SANTA CRUZ,70701,LAGUNILLAS,SANTA CRUZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+SANTA CRUZ,70702,CHARAGUA,SANTA CRUZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+SANTA CRUZ,70703,CABEZAS,SANTA CRUZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+SANTA CRUZ,70704,CUEVO,SANTA CRUZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+SANTA CRUZ,70705,GUTIERREZ,SANTA CRUZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+SANTA CRUZ,70706,CAMIRI,SANTA CRUZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+SANTA CRUZ,70707,BOYUIBE,SANTA CRUZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+SANTA CRUZ,70801,VALLEGRANDE,SANTA CRUZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+SANTA CRUZ,70802,TRIGAL,SANTA CRUZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+SANTA CRUZ,70803,MORO MORO,SANTA CRUZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+SANTA CRUZ,70804,POSTRER VALLE,SANTA CRUZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+SANTA CRUZ,70805,PUCARA,SANTA CRUZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+SANTA CRUZ,70901,SAMAIPATA,SANTA CRUZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+SANTA CRUZ,70902,PAMPA GRANDE,SANTA CRUZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+SANTA CRUZ,70903,MAIRANA,SANTA CRUZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+SANTA CRUZ,70904,QUIRUSILLAS,SANTA CRUZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+SANTA CRUZ,71001,MONTERO,SANTA CRUZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+SANTA CRUZ,71002,GENERAL SAAVEDRA,SANTA CRUZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+SANTA CRUZ,71003,MINEROS,SANTA CRUZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+SANTA CRUZ,71004,FERNANDEZ ALONSO,SANTA CRUZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+SANTA CRUZ,71005,SAN PEDRO,SANTA CRUZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+SANTA CRUZ,71101,CONCEPCION,SANTA CRUZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+SANTA CRUZ,71102,SAN JAVIER(STC),SANTA CRUZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+SANTA CRUZ,71103,SAN RAMON SCZ,,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+SANTA CRUZ,71104,SAN JULIAN,SANTA CRUZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+SANTA CRUZ,71105,SAN ANTONIO DE LOMERIO,SANTA CRUZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+SANTA CRUZ,71106,CUATRO CAÑADAS,SANTA CRUZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+SANTA CRUZ,71201,SAN MATIAS,SANTA CRUZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+SANTA CRUZ,71301,COMARAPA,SANTA CRUZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+SANTA CRUZ,71302,SAIPINA,SANTA CRUZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+SANTA CRUZ,71401,PUERTO SUAREZ,SANTA CRUZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+SANTA CRUZ,71402,PUERTO QUIJARRO,SANTA CRUZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+SANTA CRUZ,71403,CARMEN RIVERO TORREZ,SANTA CRUZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+SANTA CRUZ,71501,ASCENCION DE GUARAYOS,SANTA CRUZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+SANTA CRUZ,71502,URUBICHA,SANTA CRUZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+SANTA CRUZ,71503,EL PUENTE(STC),SANTA CRUZ,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+BENI,80101,TRINIDAD,BENI,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+BENI,80102,SAN JAVIER(BNI),BENI,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+BENI,80201,RIBERALTA,BENI,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+BENI,80202,GUAYARAMERIN,BENI,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+BENI,80301,REYES,BENI,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+BENI,80302,SAN BORJA,BENI,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+BENI,80303,SANTA ROSA,BENI,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+BENI,80304,RURRENABAQUE,BENI,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+BENI,80401,SANTA ANA,BENI,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+BENI,80402,EXALTACION,BENI,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+BENI,80501,SAN IGNACIO,BENI,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+BENI,80601,LORETO,BENI,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+BENI,80602,SAN ANDRES,BENI,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+BENI,80701,SAN JOAQUIN,BENI,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+BENI,80702,SAN RAMON,BENI,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+BENI,80703,PUERTO SILES,BENI,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+BENI,80801,MAGDALENA,BENI,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+BENI,80802,BAURES,BENI,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+BENI,80803,HUARACAJE,BENI,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+PANDO,90101,COBIJA,PANDO,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+PANDO,90102,PORVENIR,PANDO,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+PANDO,90103,BOLPEBRA,PANDO,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+PANDO,90104,BELLA FLOR,PANDO,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+PANDO,90201,PUERTO RICO,PANDO,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+PANDO,90202,SAN PEDRO(PND),PANDO,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+PANDO,90203,FILADELFIA,PANDO,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+PANDO,90301,PUERTO GONZALO MORENO,PANDO,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+PANDO,90302,SAN LORENZO(PND),PANDO,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+PANDO,90303,SENA,PANDO,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+PANDO,90401,NACEBE (SANTA ROSA DEL ABUNA),PANDO,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+PANDO,90402,INGAVI (HUMAITA),PANDO,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+PANDO,90501,NUEVO MANOA (NUEVA ESPERANZA),PANDO,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+PANDO,90502,VILLA NUEVA (LOMA ALTA),PANDO,sospecha diagnostica,difteria,2005,0,0,0,0,0,0
+PANDO,90503,EUREKA (SANTOS MERCADO),PANDO,sospecha diagnostica,difteria,2005,0,0,0,0,0,0

@@ -1,0 +1,75 @@
+year,filename,grvar,grupo,subvar,variable
+2001,datos/2001_clasificacion-general-sistemica_enfermedades-del-ojo-y-anexos.csv,00,clasificacion general sistemica,02,enfermedades del ojo y anexos
+2001,datos/2001_clasificacion-general-sistemica_enfermedades-del-sistema-cardio-circulatorio.csv,00,clasificacion general sistemica,04,enfermedades del sistema cardio circulatorio
+2001,datos/2001_clasificacion-general-sistemica_enfermedades-del-sistema-respiratorio.csv,00,clasificacion general sistemica,05,enfermedades del sistema respiratorio
+2001,datos/2001_sospecha-diagnostica_tosferina.csv,01,sospecha diagnostica,03,tosferina
+2001,datos/2001_sospecha-diagnostica_difteria.csv,01,sospecha diagnostica,04,difteria
+2001,datos/2001_sospecha-diagnostica_hantavirus.csv,02,sospecha diagnostica,14,hantavirus
+2001,datos/2001_inmunoprevenibles_tosferina-3.csv,04,inmunoprevenibles,08,tosferina (3*)
+2001,datos/2001_inmunoprevenibles_difteria-4.csv,04,inmunoprevenibles,09,difteria (4*)
+2001,datos/2001_otras-infecciones_neumonia.csv,06,otras infecciones,03,neumonia
+2001,datos/2001_otras-infecciones_sintomatico-respiratorio.csv,06,otras infecciones,06,sintomatico respiratorio
+2001,datos/2001_otras-infecciones_fiebre-hemorragica-13.csv,06,otras infecciones,07,fiebre hemorragica (13*)
+2001,datos/2001_otras-infecciones_enfermedad-respiratoria-hanta-14.csv,06,otras infecciones,08,enfermedad respiratoria hanta (14*)
+2001,datos/2001_tuberculosis-casos-confirmados_tuberculosis-pulmonar-baar-nuevos.csv,07,tuberculosis (casos confirmados),03,tuberculosis pulmonar baar (+) nuevos
+2001,datos/2001_tuberculosis-casos-confirmados_tuberculosis-pulmonar-baar.csv,07,tuberculosis (casos confirmados),04,tuberculosis pulmonar baar (-)
+2001,datos/2001_tuberculosis-casos-confirmados_tuberculosis-pulmonar-baar-prevamente-tratados.csv,07,tuberculosis (casos confirmados),06,tuberculosis pulmonar baar (+) prevamente tratados
+2001,datos/2001_mortalidad-en-el-establecimiento-leatalidad_muerte-menor-de-5-anos-por-neumonia.csv,09,mortalidad en el establecimiento ( leatalidad),05,muerte menor de 5 anos por neumonia
+2001,datos/2001_mortalidad-en-el-establecimiento-leatalidad_muerte-por-malaria-p-falciparum.csv,09,mortalidad en el establecimiento ( leatalidad),08,muerte por malaria (p. falciparum)
+2001,datos/2001_enfermedades-metaxenicas_malaria.csv,14,enfermedades metaxenicas,01,malaria
+2001,datos/2001_enfermedades-metaxenicas_leishmaniasis.csv,14,enfermedades metaxenicas,02,leishmaniasis
+2001,datos/2001_enfermedades-metaxenicas_enfermedades-de-chagas-aguda.csv,14,enfermedades metaxenicas,04,enfermedades de chagas aguda
+2002,datos/2002_clasificacion-general-sistemica_enfermedades-del-ojo-y-anexos.csv,00,clasificacion general sistemica,02,enfermedades del ojo y anexos
+2002,datos/2002_clasificacion-general-sistemica_enfermedades-del-sistema-cardio-circulatorio.csv,00,clasificacion general sistemica,04,enfermedades del sistema cardio circulatorio
+2002,datos/2002_clasificacion-general-sistemica_enfermedades-del-sistema-respiratorio.csv,00,clasificacion general sistemica,05,enfermedades del sistema respiratorio
+2002,datos/2002_sospecha-diagnostica_tosferina.csv,01,sospecha diagnostica,03,tosferina
+2002,datos/2002_sospecha-diagnostica_difteria.csv,01,sospecha diagnostica,04,difteria
+2002,datos/2002_sospecha-diagnostica_hantavirus.csv,02,sospecha diagnostica,14,hantavirus
+2002,datos/2002_inmunoprevenibles_tosferina-3.csv,04,inmunoprevenibles,08,tosferina (3*)
+2002,datos/2002_inmunoprevenibles_difteria-4.csv,04,inmunoprevenibles,09,difteria (4*)
+2002,datos/2002_otras-infecciones_neumonia.csv,06,otras infecciones,03,neumonia
+2002,datos/2002_otras-infecciones_sintomatico-respiratorio.csv,06,otras infecciones,06,sintomatico respiratorio
+2002,datos/2002_otras-infecciones_fiebre-hemorragica-13.csv,06,otras infecciones,07,fiebre hemorragica (13*)
+2002,datos/2002_otras-infecciones_enfermedad-respiratoria-hanta-14.csv,06,otras infecciones,08,enfermedad respiratoria hanta (14*)
+2002,datos/2002_tuberculosis-casos-confirmados_tuberculosis-pulmonar-baar-nuevos.csv,07,tuberculosis (casos confirmados),03,tuberculosis pulmonar baar (+) nuevos
+2002,datos/2002_tuberculosis-casos-confirmados_tuberculosis-pulmonar-baar.csv,07,tuberculosis (casos confirmados),04,tuberculosis pulmonar baar (-)
+2002,datos/2002_tuberculosis-casos-confirmados_tuberculosis-pulmonar-baar-prevamente-tratados.csv,07,tuberculosis (casos confirmados),06,tuberculosis pulmonar baar (+) prevamente tratados
+2002,datos/2002_mortalidad-en-el-establecimiento-leatalidad_muerte-menor-de-5-anos-por-neumonia.csv,09,mortalidad en el establecimiento ( leatalidad),05,muerte menor de 5 anos por neumonia
+2002,datos/2002_mortalidad-en-el-establecimiento-leatalidad_muerte-por-malaria-p-falciparum.csv,09,mortalidad en el establecimiento ( leatalidad),08,muerte por malaria (p. falciparum)
+2002,datos/2002_enfermedades-metaxenicas_malaria.csv,14,enfermedades metaxenicas,01,malaria
+2002,datos/2002_enfermedades-metaxenicas_leishmaniasis.csv,14,enfermedades metaxenicas,02,leishmaniasis
+2002,datos/2002_enfermedades-metaxenicas_enfermedades-de-chagas-aguda.csv,14,enfermedades metaxenicas,04,enfermedades de chagas aguda
+2003,datos/2003_clasificacion-general-sistemica_enfermedades-del-ojo-y-anexos.csv,00,clasificacion general sistemica,02,enfermedades del ojo y anexos
+2003,datos/2003_clasificacion-general-sistemica_enfermedades-del-sistema-cardio-circulatorio.csv,00,clasificacion general sistemica,04,enfermedades del sistema cardio circulatorio
+2003,datos/2003_clasificacion-general-sistemica_enfermedades-del-sistema-respiratorio.csv,00,clasificacion general sistemica,05,enfermedades del sistema respiratorio
+2003,datos/2003_sospecha-diagnostica_tosferina.csv,01,sospecha diagnostica,03,tosferina
+2003,datos/2003_sospecha-diagnostica_difteria.csv,01,sospecha diagnostica,04,difteria
+2003,datos/2003_sospecha-diagnostica_fiebre-hemorragica.csv,02,sospecha diagnostica,09,fiebre hemorragica
+2003,datos/2003_sospecha-diagnostica_hantavirus.csv,02,sospecha diagnostica,14,hantavirus
+2003,datos/2003_inmunoprevenibles_tosferina-3.csv,04,inmunoprevenibles,08,tosferina (3*)
+2003,datos/2003_inmunoprevenibles_difteria-4.csv,04,inmunoprevenibles,09,difteria (4*)
+2003,datos/2003_otras-infecciones_neumonia.csv,06,otras infecciones,03,neumonia
+2003,datos/2003_otras-infecciones_sintomatico-respiratorio.csv,06,otras infecciones,06,sintomatico respiratorio
+2003,datos/2003_otras-infecciones_fiebre-hemorragica-13.csv,06,otras infecciones,07,fiebre hemorragica (13*)
+2003,datos/2003_otras-infecciones_enfermedad-respiratoria-hanta-14.csv,06,otras infecciones,08,enfermedad respiratoria hanta (14*)
+2003,datos/2003_tuberculosis-casos-confirmados_tuberculosis-pulmonar-baar-nuevos.csv,07,tuberculosis (casos confirmados),03,tuberculosis pulmonar baar (+) nuevos
+2003,datos/2003_tuberculosis-casos-confirmados_tuberculosis-pulmonar-baar.csv,07,tuberculosis (casos confirmados),04,tuberculosis pulmonar baar (-)
+2003,datos/2003_tuberculosis-casos-confirmados_tuberculosis-pulmonar-baar-prevamente-tratados.csv,07,tuberculosis (casos confirmados),06,tuberculosis pulmonar baar (+) prevamente tratados
+2003,datos/2003_mortalidad-en-el-establecimiento-leatalidad_muerte-menor-de-5-anos-por-neumonia.csv,09,mortalidad en el establecimiento ( leatalidad),05,muerte menor de 5 anos por neumonia
+2003,datos/2003_mortalidad-en-el-establecimiento-leatalidad_muerte-por-malaria-p-falciparum.csv,09,mortalidad en el establecimiento ( leatalidad),08,muerte por malaria (p. falciparum)
+2003,datos/2003_enfermedades-metaxenicas_malaria.csv,14,enfermedades metaxenicas,01,malaria
+2003,datos/2003_enfermedades-metaxenicas_leishmaniasis.csv,14,enfermedades metaxenicas,02,leishmaniasis
+2003,datos/2003_enfermedades-metaxenicas_enfermedades-de-chagas-aguda.csv,14,enfermedades metaxenicas,04,enfermedades de chagas aguda
+2004,datos/2004_sospecha-diagnostica_tos-ferina.csv,01,sospecha diagnostica,03,tos ferina
+2004,datos/2004_sospecha-diagnostica_difteria.csv,01,sospecha diagnostica,04,difteria
+2004,datos/2004_sospecha-diagnostica_fiebre-hemorrag-bol.csv,02,sospecha diagnostica,09,fiebre hemorrag. bol
+2004,datos/2004_sospecha-diagnostica_enfer-por-hanta-virus.csv,02,sospecha diagnostica,14,enfer. por hanta virus
+2004,datos/2004_otras-infecciones_ira-sin-neumonia.csv,06,otras infecciones,02,ira sin neumonia
+2004,datos/2004_otras-infecciones_neumonia.csv,06,otras infecciones,03,neumonia
+2004,datos/2004_tuberculosis_sintomatico-respiratorio.csv,07,tuberculosis,01,sintomatico respiratorio
+2004,datos/2004_tuberculosis_tuberculosis-pulmonar-baar-nuevos.csv,07,tuberculosis,03,tuberculosis pulmonar baar + nuevos
+2004,datos/2004_tuberculosis_tuberculosis-pulmonar-baar-nuevos.csv,07,tuberculosis,04,tuberculosis pulmonar baar - nuevos
+2004,datos/2004_mortalidad-institucional_muerte-menor-de-5-anos-por-neumonia.csv,09,mortalidad institucional,05,muerte menor de 5 anos por neumonia
+2004,datos/2004_mortalidad-institucional_muerte-por-malaria-p-falciparum.csv,09,mortalidad institucional,08,muerte por malaria (p. falciparum)
+2004,datos/2004_enfermedades-metaxenicas_malaria.csv,14,enfermedades metaxenicas,01,malaria
+2004,datos/2004_enfermedades-metaxenicas_leishmaniasis.csv,14,enfermedades metaxenicas,02,leishmaniasis

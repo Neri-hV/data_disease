@@ -1,0 +1,343 @@
+departamento,codigo_municipio,municipio,grupo,variable,año,hombres de 6 meses,mujeres menores a 6 meses,hombres de 6 meses a 1 año,mujeres de 6 meses a 1 año,hombres de 1 a 4 años,mujeres de 1 a 4 años,hombres de 5 a 9 años,mujeres de 5 a 9 años,hombres de 10 a 14 años,mujeres de 10 a 14 años,hombres de 15 a 19 años,mujeres de 15 a 19 años,hombres de 20 a 39 años,mujeres de 20 a 39 años,hombres de 40 a 49 años,mujeres de 40 a 49 años,hombres de 50 a 59 años,mujeres de 50 a 59 años,hombres de 60 y más años,mujeres de 60 y más años,dentro de establecimientos total,fuera de establecimientos total,total
+CHUQUISACA,10101,SUCRE,otras infecciones,neumonia,2019,231,165,281,180,831,696,254,200,78,83,35,49,133,204,93,117,104,166,558,633,2598,2493,5091
+CHUQUISACA,10102,YOTALA,otras infecciones,neumonia,2019,12,8,2,9,33,28,7,12,4,6,3,3,6,6,3,4,1,4,27,23,98,103,201
+CHUQUISACA,10103,POROMA,otras infecciones,neumonia,2019,3,5,1,1,3,2,2,1,0,2,0,0,2,1,1,0,1,0,3,7,16,19,35
+CHUQUISACA,10201,AZURDUY,otras infecciones,neumonia,2019,0,2,3,6,9,12,1,0,1,1,0,1,3,2,2,3,3,1,9,12,31,40,71
+CHUQUISACA,10202,TARVITA,otras infecciones,neumonia,2019,10,6,8,5,16,22,4,7,4,1,0,2,4,4,3,7,3,10,56,45,108,109,217
+CHUQUISACA,10301,ZUDAÑEZ,otras infecciones,neumonia,2019,2,1,3,3,4,11,2,2,0,0,1,0,2,3,1,1,3,0,7,10,25,31,56
+CHUQUISACA,10302,PRESTO,otras infecciones,neumonia,2019,0,2,0,0,0,1,0,1,0,0,0,0,0,4,0,2,0,2,19,6,19,18,37
+CHUQUISACA,10303,MOJOCOYA,otras infecciones,neumonia,2019,0,1,0,0,0,0,1,0,0,0,0,0,0,2,0,0,0,0,5,4,6,7,13
+CHUQUISACA,10304,ICLA,otras infecciones,neumonia,2019,1,0,1,1,2,0,0,0,0,0,0,0,1,0,2,3,1,0,4,4,12,8,20
+CHUQUISACA,10401,PADILLA,otras infecciones,neumonia,2019,5,6,4,6,36,21,9,6,1,1,0,5,3,5,5,7,7,9,30,29,100,95,195
+CHUQUISACA,10402,TOMINA,otras infecciones,neumonia,2019,2,2,2,2,11,7,2,2,0,1,0,1,0,5,2,2,11,2,18,19,48,43,91
+CHUQUISACA,10403,SOPACHUY,otras infecciones,neumonia,2019,4,5,1,0,5,5,0,4,0,1,0,2,6,3,5,9,2,1,19,23,42,53,95
+CHUQUISACA,10404,ALCALA,otras infecciones,neumonia,2019,1,1,5,2,2,3,4,3,4,0,0,1,0,0,2,0,0,0,6,8,24,18,42
+CHUQUISACA,10405,EL VILLAR,otras infecciones,neumonia,2019,0,0,0,0,0,1,3,1,0,0,0,0,0,1,0,0,1,1,1,2,5,6,11
+CHUQUISACA,10501,MONTEAGUDO,otras infecciones,neumonia,2019,16,16,19,9,60,42,21,12,4,3,2,2,8,20,6,16,6,16,56,75,198,211,409
+CHUQUISACA,10502,HUACARETA,otras infecciones,neumonia,2019,2,5,5,3,18,13,7,4,3,2,1,1,5,10,0,6,0,6,17,13,58,63,121
+CHUQUISACA,10601,TARABUCO,otras infecciones,neumonia,2019,5,3,2,5,15,12,2,3,1,1,3,2,3,5,4,6,3,2,30,34,68,73,141
+CHUQUISACA,10602,YAMPARAEZ,otras infecciones,neumonia,2019,2,1,0,1,3,1,3,0,0,1,0,0,4,1,0,1,0,2,6,7,18,15,33
+CHUQUISACA,10701,CAMARGO,otras infecciones,neumonia,2019,13,7,16,10,19,15,4,5,0,2,2,1,2,4,8,4,5,7,39,38,108,93,201
+CHUQUISACA,10702,SAN LUCAS,otras infecciones,neumonia,2019,9,5,10,6,20,25,1,2,0,0,0,1,7,8,4,5,15,11,47,61,113,124,237
+CHUQUISACA,10703,INCAHUASI,otras infecciones,neumonia,2019,3,3,4,2,9,6,0,2,3,0,0,3,2,12,0,6,2,5,32,33,55,72,127
+CHUQUISACA,10704,VILLA CHARCAS,otras infecciones,neumonia,2019,6,7,4,3,24,11,0,2,0,0,0,1,4,11,0,2,3,3,17,18,58,58,116
+CHUQUISACA,10801,VILLA SERRANO,otras infecciones,neumonia,2019,0,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,2,5,2,7
+CHUQUISACA,10901,CAMATAQUI (C. VILLA ABECIA),otras infecciones,neumonia,2019,0,0,0,0,1,0,1,0,0,0,1,0,0,2,2,3,7,1,3,8,15,14,29
+CHUQUISACA,10902,CULPINA,otras infecciones,neumonia,2019,6,6,9,1,8,4,3,7,0,1,0,1,2,6,10,5,2,8,31,54,71,93,164
+CHUQUISACA,10903,LAS CARRERAS,otras infecciones,neumonia,2019,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4,2,4,3,7
+CHUQUISACA,11001,VILLA VACA GUZMAN (MUYUPAMPA),otras infecciones,neumonia,2019,6,4,4,1,24,8,9,5,0,2,0,1,3,0,1,3,1,2,15,5,63,31,94
+CHUQUISACA,11002,HUACAYA (VILLA DE HUACAYA),otras infecciones,neumonia,2019,0,0,2,2,4,4,2,1,0,1,0,0,1,4,0,0,0,3,9,13,18,28,46
+CHUQUISACA,11003,MACHARETI,otras infecciones,neumonia,2019,2,1,0,0,1,4,7,1,2,1,3,3,4,2,0,2,0,2,10,6,29,22,51
+LA PAZ,20101,LA PAZ,otras infecciones,neumonia,2019,318,238,498,362,1227,1079,408,325,166,138,73,82,169,173,110,113,100,127,712,685,3781,3322,7103
+LA PAZ,20102,PALCA,otras infecciones,neumonia,2019,6,7,1,5,16,5,1,0,0,1,1,0,0,2,1,0,1,1,6,2,33,23,56
+LA PAZ,20103,MECAPACA,otras infecciones,neumonia,2019,0,1,2,1,7,6,7,4,0,5,4,0,7,10,4,7,4,2,11,15,46,51,97
+LA PAZ,20104,ACHOCALLA,otras infecciones,neumonia,2019,2,1,3,1,3,4,1,0,0,0,1,0,0,2,2,1,2,0,3,2,17,11,28
+LA PAZ,20105,EL ALTO,otras infecciones,neumonia,2019,1009,769,1126,950,2513,2198,272,237,59,67,60,63,159,189,73,111,84,124,427,426,5782,5134,10916
+LA PAZ,20201,ACHACACHI,otras infecciones,neumonia,2019,9,3,5,2,16,15,0,4,0,0,1,0,1,0,1,0,5,3,8,9,46,36,82
+LA PAZ,20202,ANCORAIMES,otras infecciones,neumonia,2019,0,0,0,0,2,2,0,1,0,0,0,0,1,0,0,2,1,0,12,4,16,9,25
+LA PAZ,20203,CHUA COCANI,otras infecciones,neumonia,2019,2,0,1,3,6,8,0,1,0,1,0,0,0,3,0,0,0,0,13,8,22,24,46
+LA PAZ,20204,HUARINA,otras infecciones,neumonia,2019,0,1,0,0,1,0,0,2,0,0,0,0,0,0,0,0,1,0,13,7,15,10,25
+LA PAZ,20205,SANTIAGO DE HUATA,otras infecciones,neumonia,2019,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+LA PAZ,20206,HUATAJATA,otras infecciones,neumonia,2019,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,7,6,8,8,16
+LA PAZ,20301,CORO CORO,otras infecciones,neumonia,2019,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,1,1,4,5,6,8,14
+LA PAZ,20302,CAQUIAVIRI,otras infecciones,neumonia,2019,3,2,5,2,4,2,1,0,0,0,0,0,0,1,0,0,1,0,5,3,19,10,29
+LA PAZ,20303,CALACOTO,otras infecciones,neumonia,2019,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,3,1,4
+LA PAZ,20304,COMANCHE,otras infecciones,neumonia,2019,0,0,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,1,2,2,5,7
+LA PAZ,20305,CHARAÑA,otras infecciones,neumonia,2019,0,0,1,0,3,1,3,1,0,0,0,0,0,0,0,0,0,0,0,1,7,3,10
+LA PAZ,20306,WALDO BALLIVIAN,otras infecciones,neumonia,2019,0,1,2,2,5,1,2,0,0,1,0,0,0,0,0,1,0,4,0,1,9,11,20
+LA PAZ,20307,NAZACARA DE PACAJES,otras infecciones,neumonia,2019,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+LA PAZ,20308,SANTIAGO DE CALLAPA,otras infecciones,neumonia,2019,1,1,1,3,3,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,9,14
+LA PAZ,20401,PUERTO ACOSTA,otras infecciones,neumonia,2019,1,0,1,0,3,0,0,1,0,1,0,0,0,0,0,0,0,0,2,1,7,3,10
+LA PAZ,20402,MOCOMOCO,otras infecciones,neumonia,2019,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,2,0,3,2,5
+LA PAZ,20403,PUERTO CARABUCO,otras infecciones,neumonia,2019,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,3,3,3,6,9
+LA PAZ,20404,HUMANATA,otras infecciones,neumonia,2019,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,1,1,3,2,5
+LA PAZ,20405,ESCOMA,otras infecciones,neumonia,2019,0,2,1,2,1,4,0,1,1,0,0,0,1,0,0,0,0,0,1,2,5,11,16
+LA PAZ,20501,CHUMA,otras infecciones,neumonia,2019,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,2,4
+LA PAZ,20502,AYATA,otras infecciones,neumonia,2019,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,1,1,3,4
+LA PAZ,20503,AUCAPATA,otras infecciones,neumonia,2019,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,3,1,4
+LA PAZ,20601,SORATA,otras infecciones,neumonia,2019,0,2,0,0,0,0,0,3,0,1,1,1,2,1,2,3,12,4,35,22,52,37,89
+LA PAZ,20602,GUANAY,otras infecciones,neumonia,2019,5,3,3,3,8,11,2,3,1,1,0,2,2,1,0,2,3,0,16,5,40,31,71
+LA PAZ,20603,TACACOMA,otras infecciones,neumonia,2019,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,5,1,5,4,9
+LA PAZ,20604,QUIABAYA,otras infecciones,neumonia,2019,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LA PAZ,20605,COMBAYA,otras infecciones,neumonia,2019,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LA PAZ,20606,TIPUANI,otras infecciones,neumonia,2019,1,1,2,0,7,5,6,2,0,1,1,0,2,2,5,5,9,2,6,5,39,23,62
+LA PAZ,20607,MAPIRI,otras infecciones,neumonia,2019,0,3,3,5,15,14,2,4,0,1,0,0,1,1,1,0,2,2,6,4,30,34,64
+LA PAZ,20608,TEOPONTE,otras infecciones,neumonia,2019,1,0,0,0,0,6,2,0,0,0,0,0,1,0,0,0,0,1,5,2,9,9,18
+LA PAZ,20701,APOLO,otras infecciones,neumonia,2019,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,5,0,5
+LA PAZ,20702,PELECHUCO,otras infecciones,neumonia,2019,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+LA PAZ,20801,VIACHA,otras infecciones,neumonia,2019,35,24,31,22,65,73,12,16,2,4,1,3,6,5,7,3,4,9,18,18,181,177,358
+LA PAZ,20802,GUAQUI,otras infecciones,neumonia,2019,3,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,2,6,4,10
+LA PAZ,20803,TIAWANACU,otras infecciones,neumonia,2019,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LA PAZ,20804,DESAGUADERO,otras infecciones,neumonia,2019,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+LA PAZ,20805,SAN ANDRES DE MACHACA,otras infecciones,neumonia,2019,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,5,1,6,1,7
+LA PAZ,20806,JESUS DE MACHACA,otras infecciones,neumonia,2019,2,0,3,1,1,7,1,0,0,0,0,0,0,0,0,0,0,0,3,5,10,13,23
+LA PAZ,20807,TARACO,otras infecciones,neumonia,2019,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,3,1,5,2,7
+LA PAZ,20901,LURIBAY,otras infecciones,neumonia,2019,1,0,0,0,1,2,0,0,0,0,0,0,2,0,1,1,1,0,0,2,6,5,11
+LA PAZ,20902,SAPAHAQUI,otras infecciones,neumonia,2019,7,7,12,3,20,21,1,0,1,1,2,1,2,1,1,2,3,4,21,12,70,52,122
+LA PAZ,20903,YACO,otras infecciones,neumonia,2019,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,1,8,1,10,4,14
+LA PAZ,20904,MALLA,otras infecciones,neumonia,2019,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+LA PAZ,20905,CAIROMA,otras infecciones,neumonia,2019,0,0,0,1,2,0,0,0,0,0,0,1,0,0,0,0,0,0,3,0,5,2,7
+LA PAZ,21001,INQUISIVI,otras infecciones,neumonia,2019,1,2,1,2,2,4,2,1,1,0,0,1,0,2,0,0,3,0,17,7,27,19,46
+LA PAZ,21002,QUIME,otras infecciones,neumonia,2019,5,0,3,1,9,14,3,7,0,5,3,2,3,13,4,8,8,6,13,12,51,68,119
+LA PAZ,21003,CAJUATA,otras infecciones,neumonia,2019,2,4,2,3,8,7,0,0,2,1,0,0,3,3,2,2,1,2,10,4,30,26,56
+LA PAZ,21004,COLQUIRI,otras infecciones,neumonia,2019,2,5,11,7,23,15,2,6,3,0,3,4,14,16,6,4,8,6,25,23,97,86,183
+LA PAZ,21005,ICHOCA,otras infecciones,neumonia,2019,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,3,4,3,7
+LA PAZ,21006,LICOMA PAMPA,otras infecciones,neumonia,2019,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LA PAZ,21101,CHULUMANI (V. DE LA LIBERTAD),otras infecciones,neumonia,2019,13,9,13,9,33,40,11,13,3,4,1,4,11,11,7,12,4,5,37,27,133,134,267
+LA PAZ,21102,IRUPANA (VILLA DE LANZA),otras infecciones,neumonia,2019,4,5,6,4,27,27,17,8,8,4,0,1,2,5,1,3,3,5,16,12,84,74,158
+LA PAZ,21103,YANACACHI,otras infecciones,neumonia,2019,1,0,0,3,3,3,2,0,0,0,0,1,8,0,1,4,3,0,12,6,30,17,47
+LA PAZ,21104,PALOS BLANCOS,otras infecciones,neumonia,2019,13,7,18,23,37,41,19,12,1,6,0,4,13,13,6,13,5,7,78,34,190,160,350
+LA PAZ,21105,LA ASUNTA,otras infecciones,neumonia,2019,19,11,25,18,75,43,16,17,8,4,3,1,38,26,10,8,10,4,44,25,248,157,405
+LA PAZ,21201,PUCARANI,otras infecciones,neumonia,2019,4,7,3,2,9,7,1,2,0,1,0,2,3,2,0,0,1,2,7,11,28,36,64
+LA PAZ,21202,LAJA,otras infecciones,neumonia,2019,2,3,2,2,2,6,0,2,0,0,0,0,1,3,0,0,1,0,5,8,13,24,37
+LA PAZ,21203,BATALLAS,otras infecciones,neumonia,2019,1,1,0,1,4,7,1,0,0,0,0,0,2,0,1,0,0,0,6,6,15,15,30
+LA PAZ,21204,PUERTO PEREZ,otras infecciones,neumonia,2019,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,1,0,1,0,3,2,5
+LA PAZ,21301,SICA SICA (VILLA AROMA),otras infecciones,neumonia,2019,5,2,4,4,13,17,2,2,0,0,2,2,2,5,5,2,3,1,14,22,50,57,107
+LA PAZ,21302,UMALA,otras infecciones,neumonia,2019,2,1,1,0,4,2,0,4,0,0,0,0,0,0,0,0,0,1,4,5,11,13,24
+LA PAZ,21303,AYO AYO,otras infecciones,neumonia,2019,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,5,0,5
+LA PAZ,21304,CALAMARCA,otras infecciones,neumonia,2019,2,2,3,3,10,5,2,0,0,0,0,1,2,1,0,0,0,0,6,3,25,15,40
+LA PAZ,21305,PATACAMAYA,otras infecciones,neumonia,2019,16,4,9,6,16,15,3,0,0,0,0,1,2,4,0,2,1,3,22,26,69,61,130
+LA PAZ,21306,COLQUENCHA,otras infecciones,neumonia,2019,0,0,0,1,2,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,3,3,6
+LA PAZ,21307,COLLANA,otras infecciones,neumonia,2019,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,4,0,4
+LA PAZ,21401,COROICO,otras infecciones,neumonia,2019,13,4,13,8,37,38,18,8,6,2,0,1,4,8,1,2,4,12,13,16,109,99,208
+LA PAZ,21402,CORIPATA,otras infecciones,neumonia,2019,5,5,5,5,24,11,8,6,3,3,0,0,5,10,3,1,4,2,26,25,83,68,151
+LA PAZ,21501,IXIAMAS,otras infecciones,neumonia,2019,3,8,8,5,22,26,5,5,0,3,0,0,0,2,0,1,3,1,6,2,47,53,100
+LA PAZ,21502,SAN BUENA VENTURA,otras infecciones,neumonia,2019,32,19,18,23,52,58,22,4,6,3,0,0,1,9,1,2,2,2,20,23,154,143,297
+LA PAZ,21601,GRAL. J.J. PEREZ (CHARAZANI),otras infecciones,neumonia,2019,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,3
+LA PAZ,21602,CURVA,otras infecciones,neumonia,2019,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LA PAZ,21701,COPACABANA,otras infecciones,neumonia,2019,0,0,1,2,2,0,2,0,0,1,0,0,3,1,1,0,0,2,8,10,17,16,33
+LA PAZ,21702,SAN PEDRO DE TIQUINA,otras infecciones,neumonia,2019,0,0,2,1,9,2,0,1,0,0,0,1,2,2,1,2,0,1,4,0,18,10,28
+LA PAZ,21703,TITO YUPANQUI (PARQUIPUJIO),otras infecciones,neumonia,2019,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,2,3,2,5
+LA PAZ,21801,SAN PEDRO DE CURAHUARA,otras infecciones,neumonia,2019,0,1,1,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,3,6,6,8,14
+LA PAZ,21802,PAPEL PAMPA,otras infecciones,neumonia,2019,0,0,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,4,1,7,3,10
+LA PAZ,21803,CHACARILLA,otras infecciones,neumonia,2019,0,1,1,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,5
+LA PAZ,21901,SANTIAGO DE MACHACA,otras infecciones,neumonia,2019,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,3,3,6
+LA PAZ,21902,CATACORA,otras infecciones,neumonia,2019,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+LA PAZ,22001,CARANAVI,otras infecciones,neumonia,2019,15,12,14,9,37,37,7,11,2,2,4,1,5,10,7,2,18,10,53,28,162,122,284
+LA PAZ,22002,ALTO BENI,otras infecciones,neumonia,2019,0,0,4,0,2,1,1,1,1,0,0,0,1,0,0,1,0,1,7,2,16,6,22
+LA PAZ,22004,HUMANATA,otras infecciones,neumonia,2019,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+COCHABAMBA,30101,COCHABAMBA,otras infecciones,neumonia,2019,284,220,378,290,1012,792,300,247,98,87,29,58,200,299,143,169,182,242,884,1050,3510,3454,6964
+COCHABAMBA,30201,AIQUILE,otras infecciones,neumonia,2019,9,4,5,6,33,21,10,9,3,4,3,1,7,4,3,4,5,3,16,24,94,80,174
+COCHABAMBA,30202,PASORAPA,otras infecciones,neumonia,2019,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,1,3,4
+COCHABAMBA,30203,OMEREQUE,otras infecciones,neumonia,2019,9,7,5,7,33,18,4,6,2,4,2,2,5,10,2,5,7,7,13,9,82,75,157
+COCHABAMBA,30301,AYOPAYA (V. DE INDEPENDENCIA),otras infecciones,neumonia,2019,16,8,14,18,38,28,1,3,0,0,1,0,3,3,2,0,3,1,11,7,89,68,157
+COCHABAMBA,30302,MOROCHATA,otras infecciones,neumonia,2019,1,1,2,0,5,7,1,0,0,0,1,0,2,1,0,4,2,1,16,18,30,32,62
+COCHABAMBA,30303,COCAPATA,otras infecciones,neumonia,2019,10,7,8,6,17,19,1,3,0,0,1,3,1,1,0,1,1,0,5,5,44,45,89
+COCHABAMBA,30401,TARATA,otras infecciones,neumonia,2019,1,2,2,5,14,14,2,1,0,2,2,1,3,9,0,1,2,1,28,28,54,64,118
+COCHABAMBA,30402,ANZALDO,otras infecciones,neumonia,2019,0,0,0,3,2,1,2,2,1,0,2,0,0,2,1,1,1,1,7,16,16,26,42
+COCHABAMBA,30403,ARBIETO,otras infecciones,neumonia,2019,1,1,0,1,7,2,2,1,0,1,0,0,1,1,0,0,0,0,6,22,17,29,46
+COCHABAMBA,30404,SACABAMBA,otras infecciones,neumonia,2019,2,1,0,0,7,4,0,1,3,0,0,0,1,1,0,0,0,2,16,12,29,21,50
+COCHABAMBA,30501,ARANI,otras infecciones,neumonia,2019,3,0,3,0,10,3,3,1,0,0,0,0,0,2,0,1,1,4,19,22,39,33,72
+COCHABAMBA,30502,VACAS,otras infecciones,neumonia,2019,1,0,2,0,6,1,1,0,0,0,1,0,0,1,0,0,0,0,3,8,14,10,24
+COCHABAMBA,30601,ARQUE,otras infecciones,neumonia,2019,1,3,0,1,2,2,2,2,0,1,0,0,0,0,1,1,1,2,2,2,9,14,23
+COCHABAMBA,30602,TACOPAYA,otras infecciones,neumonia,2019,3,1,2,1,10,7,0,0,0,0,0,0,1,1,0,1,1,0,6,16,23,27,50
+COCHABAMBA,30701,CAPINOTA,otras infecciones,neumonia,2019,46,15,25,23,66,34,10,5,6,4,3,1,2,10,0,19,2,4,20,21,180,136,316
+COCHABAMBA,30702,SANTIVAÑES,otras infecciones,neumonia,2019,3,2,2,0,0,1,9,1,0,0,1,0,0,2,0,0,4,1,4,5,23,12,35
+COCHABAMBA,30703,SICAYA,otras infecciones,neumonia,2019,10,4,8,8,11,19,1,0,0,0,0,0,0,2,0,0,0,0,4,3,34,36,70
+COCHABAMBA,30801,CLIZA,otras infecciones,neumonia,2019,9,1,9,5,27,25,3,7,1,0,0,0,1,4,0,2,1,0,14,18,65,62,127
+COCHABAMBA,30802,TOCO,otras infecciones,neumonia,2019,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,1,0,5,10,9,10,19
+COCHABAMBA,30803,TOLATA,otras infecciones,neumonia,2019,5,3,4,2,6,2,1,1,1,1,0,0,0,3,0,2,0,3,2,14,19,31,50
+COCHABAMBA,30901,QUILLACOLLO,otras infecciones,neumonia,2019,96,58,107,89,264,273,60,48,32,29,18,13,39,55,22,23,39,44,185,248,862,880,1742
+COCHABAMBA,30902,SIPE SIPE,otras infecciones,neumonia,2019,58,47,59,42,98,76,11,7,4,1,2,3,16,14,2,10,9,6,88,105,347,311,658
+COCHABAMBA,30903,TIQUIPAYA,otras infecciones,neumonia,2019,37,25,53,57,182,124,16,25,8,3,3,6,9,14,5,11,9,14,64,82,386,361,747
+COCHABAMBA,30904,VINTO,otras infecciones,neumonia,2019,47,28,96,52,155,145,36,40,7,4,4,3,9,14,5,8,7,13,58,71,424,378,802
+COCHABAMBA,30905,COLCAPIRHUA,otras infecciones,neumonia,2019,10,15,28,15,81,67,18,19,6,3,2,4,21,11,6,12,7,6,59,61,238,213,451
+COCHABAMBA,31001,SACABA,otras infecciones,neumonia,2019,158,112,112,60,296,259,77,44,20,11,10,19,31,49,15,39,28,34,168,186,915,813,1728
+COCHABAMBA,31002,COLOMI,otras infecciones,neumonia,2019,3,2,7,3,20,11,5,3,2,1,1,1,4,4,0,2,10,5,38,29,90,61,151
+COCHABAMBA,31003,VILLA TUNARI,otras infecciones,neumonia,2019,146,82,141,119,394,341,101,120,34,24,24,13,64,103,26,32,60,51,186,138,1176,1023,2199
+COCHABAMBA,31101,TAPACARI,otras infecciones,neumonia,2019,8,4,1,2,4,0,1,1,1,0,0,0,1,5,2,4,0,2,7,10,25,28,53
+COCHABAMBA,31201,TOTORA(CBBA),otras infecciones,neumonia,2019,24,13,15,9,29,18,3,9,0,0,0,0,7,4,2,1,0,7,17,9,97,70,167
+COCHABAMBA,31202,POJO (CBBA),otras infecciones,neumonia,2019,8,5,3,7,12,11,2,3,1,0,0,1,3,1,1,3,2,5,11,22,43,58,101
+COCHABAMBA,31203,POCONA,otras infecciones,neumonia,2019,2,4,4,3,5,4,2,2,1,0,1,1,0,2,0,1,2,1,20,19,37,37,74
+COCHABAMBA,31204,CHIMORE,otras infecciones,neumonia,2019,35,23,51,44,163,137,30,49,12,14,8,11,13,39,13,10,7,13,38,39,370,379,749
+COCHABAMBA,31205,PUERTO VILLARROEL,otras infecciones,neumonia,2019,104,68,138,95,336,323,46,39,19,19,19,15,28,62,34,29,43,46,152,117,919,813,1732
+COCHABAMBA,31206,ENTRE RIOS CBBA,otras infecciones,neumonia,2019,53,31,75,35,173,131,42,26,10,7,10,6,34,50,16,19,17,19,71,96,501,420,921
+COCHABAMBA,31301,MIZQUE,otras infecciones,neumonia,2019,13,7,19,12,42,45,8,11,2,5,1,3,4,4,4,2,3,4,14,35,110,128,238
+COCHABAMBA,31302,VILA VILA,otras infecciones,neumonia,2019,0,0,1,1,6,3,0,1,0,0,1,2,1,0,1,0,1,0,2,3,13,10,23
+COCHABAMBA,31303,ALALAY,otras infecciones,neumonia,2019,1,1,1,0,3,3,5,1,1,1,1,0,4,2,0,0,1,1,6,5,23,14,37
+COCHABAMBA,31304,RAQAYPAMPA(ETA),otras infecciones,neumonia,2019,13,24,17,24,63,64,8,12,3,4,5,3,4,11,1,7,2,9,16,28,132,186,318
+COCHABAMBA,31401,PUNATA,otras infecciones,neumonia,2019,29,23,30,28,79,44,18,13,5,3,4,4,14,12,5,10,12,22,143,198,339,357,696
+COCHABAMBA,31402,VILLA RIVERO,otras infecciones,neumonia,2019,5,2,3,9,18,9,0,1,0,0,0,1,0,1,1,2,2,1,16,13,45,39,84
+COCHABAMBA,31403,SAN BENITO,otras infecciones,neumonia,2019,1,2,0,2,3,2,0,1,0,0,0,0,1,0,1,0,1,0,6,11,13,18,31
+COCHABAMBA,31404,TACACHI,otras infecciones,neumonia,2019,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2
+COCHABAMBA,31405,CUCHUMUELA (V. G. VILLARROEL),otras infecciones,neumonia,2019,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,2,3,9,3,15,18
+COCHABAMBA,31501,BOLIVAR,otras infecciones,neumonia,2019,0,0,0,2,3,3,0,0,0,0,0,0,0,0,0,1,0,1,4,5,7,12,19
+COCHABAMBA,31601,TIRAQUE (CBBA),otras infecciones,neumonia,2019,8,7,8,6,17,9,1,3,2,0,0,2,0,1,0,0,2,1,6,8,44,37,81
+COCHABAMBA,31602,SHINAOTA,otras infecciones,neumonia,2019,23,16,32,24,117,113,23,32,12,4,7,1,10,22,11,6,8,10,38,48,281,276,557
+ORURO,40101,ORURO,otras infecciones,neumonia,2019,113,87,98,79,267,230,104,89,30,23,21,17,137,131,60,65,68,83,172,204,1070,1008,2078
+ORURO,40102,CARACOLLO,otras infecciones,neumonia,2019,3,4,3,3,27,25,9,5,1,1,1,1,1,4,0,1,1,3,10,8,56,55,111
+ORURO,40103,EL CHORO,otras infecciones,neumonia,2019,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ORURO,40104,SORACACHI,otras infecciones,neumonia,2019,2,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,3,6
+ORURO,40201,CHALLAPATA,otras infecciones,neumonia,2019,15,4,15,6,23,23,2,3,0,0,1,0,3,4,2,0,0,2,12,26,73,68,141
+ORURO,40202,SANTUARIO DE QUILLACAS,otras infecciones,neumonia,2019,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,2,0,2
+ORURO,40301,CORQUE,otras infecciones,neumonia,2019,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+ORURO,40302,CHOQUE COTA,otras infecciones,neumonia,2019,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+ORURO,40401,CURAHUARA DE CARANGAS,otras infecciones,neumonia,2019,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ORURO,40402,TURCO,otras infecciones,neumonia,2019,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ORURO,40501,HUACHACALLA,otras infecciones,neumonia,2019,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,4,3,4,5,9
+ORURO,40502,ESCARA,otras infecciones,neumonia,2019,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,5,3,6,3,9
+ORURO,40503,CRUZ DE MACHACAMARCA,otras infecciones,neumonia,2019,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,2
+ORURO,40504,YUNGUYO DE LITORAL,otras infecciones,neumonia,2019,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ORURO,40505,ESMERALDA,otras infecciones,neumonia,2019,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ORURO,40601,POOPO,otras infecciones,neumonia,2019,1,2,5,5,5,7,3,0,0,0,0,0,2,0,1,0,2,0,2,3,21,17,38
+ORURO,40602,PAZÑA,otras infecciones,neumonia,2019,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ORURO,40603,ANTEQUERA,otras infecciones,neumonia,2019,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ORURO,40701,HUANUNI,otras infecciones,neumonia,2019,6,5,8,2,20,9,3,3,2,0,0,0,7,4,5,5,2,1,6,5,59,34,93
+ORURO,40702,MACHACAMARCA,otras infecciones,neumonia,2019,3,1,2,1,7,8,1,2,0,2,1,0,1,2,0,0,0,0,13,10,28,26,54
+ORURO,40801,SALINAS DE GARCI MENDOZA,otras infecciones,neumonia,2019,0,0,1,0,0,1,1,1,0,1,2,6,29,26,17,8,10,11,42,38,102,92,194
+ORURO,40802,PAMPA AULLAGAS,otras infecciones,neumonia,2019,0,0,0,1,0,4,0,0,1,0,0,0,3,1,0,0,0,0,0,1,4,7,11
+ORURO,40901,SABAYA,otras infecciones,neumonia,2019,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+ORURO,40902,COIPASA,otras infecciones,neumonia,2019,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ORURO,40903,CHIPAYA,otras infecciones,neumonia,2019,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ORURO,41001,TOLEDO,otras infecciones,neumonia,2019,0,0,2,0,3,1,1,0,0,0,0,0,0,0,0,0,0,0,2,3,8,4,12
+ORURO,41101,EUCALIPTUS,otras infecciones,neumonia,2019,0,2,0,0,0,1,0,0,0,0,0,0,0,1,1,0,1,0,6,0,8,4,12
+ORURO,41201,ANDAMARCA,otras infecciones,neumonia,2019,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ORURO,41202,BELEN DE ANDAMARCA,otras infecciones,neumonia,2019,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+ORURO,41301,TOTORA(ORR),otras infecciones,neumonia,2019,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,4,1,5,2,7
+ORURO,41401,SANTIAGO DE HUARI,otras infecciones,neumonia,2019,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,2,3
+ORURO,41501,LA RIVERA,otras infecciones,neumonia,2019,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ORURO,41502,TODOS SANTOS,otras infecciones,neumonia,2019,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ORURO,41503,CARANGAS,otras infecciones,neumonia,2019,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ORURO,41601,HUAYLLAMARCA,otras infecciones,neumonia,2019,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,3,2,5,3,8
+POTOSI,50101,POTOSI,otras infecciones,neumonia,2019,173,84,79,52,215,164,49,39,12,9,7,8,43,56,29,27,23,21,106,111,736,571,1307
+POTOSI,50102,TINGUIPAYA,otras infecciones,neumonia,2019,5,0,1,1,3,3,0,0,0,0,1,2,1,0,0,1,1,0,4,4,16,11,27
+POTOSI,50103,YOCALLA,otras infecciones,neumonia,2019,2,3,0,0,2,2,1,1,0,0,0,1,0,1,0,0,0,1,4,1,9,10,19
+POTOSI,50104,BELEN DE URMIRI,otras infecciones,neumonia,2019,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,2
+POTOSI,50201,UNCIA,otras infecciones,neumonia,2019,5,2,2,2,6,2,4,2,5,1,0,0,1,6,1,4,6,3,4,19,34,41,75
+POTOSI,50202,CHAYANTA,otras infecciones,neumonia,2019,2,2,2,3,14,8,1,0,0,2,2,1,1,2,1,0,2,2,5,5,30,25,55
+POTOSI,50203,LLALLAGUA,otras infecciones,neumonia,2019,22,24,24,13,72,63,14,14,4,0,1,0,13,5,5,4,7,5,15,11,177,139,316
+POTOSI,50204,CHUQUIHUTA AYLLU JUCUMANI,otras infecciones,neumonia,2019,0,0,1,0,2,0,1,0,0,0,0,0,3,0,2,0,2,0,5,1,16,1,17
+POTOSI,50301,BETANZOS,otras infecciones,neumonia,2019,10,5,7,4,6,8,1,0,0,1,1,0,1,0,0,2,1,0,5,2,32,22,54
+POTOSI,50302,CHAQUI,otras infecciones,neumonia,2019,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,1,2,2,5,3,8
+POTOSI,50303,TACOBAMBA,otras infecciones,neumonia,2019,0,0,0,0,3,4,0,0,0,0,1,0,0,0,0,0,0,0,5,0,9,4,13
+POTOSI,50401,COLQUECHACA,otras infecciones,neumonia,2019,4,6,2,4,18,9,3,0,0,0,0,0,4,3,0,3,2,0,16,11,49,36,85
+POTOSI,50402,RAVELO,otras infecciones,neumonia,2019,2,1,0,0,2,0,0,0,1,0,0,0,4,0,0,3,0,1,2,7,11,12,23
+POTOSI,50403,POCOATA,otras infecciones,neumonia,2019,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,2,4,4,7,11
+POTOSI,50404,OCURI,otras infecciones,neumonia,2019,1,1,1,0,5,1,1,0,0,0,0,0,2,2,3,2,0,1,9,10,22,17,39
+POTOSI,50405,SAN PEDRO DE MACHA,otras infecciones,neumonia,2019,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+POTOSI,50501,SAN PEDRO DE BUENA VISTA,otras infecciones,neumonia,2019,3,2,2,0,12,4,2,2,0,2,1,1,4,3,1,3,2,1,6,9,33,27,60
+POTOSI,50502,TORO TORO,otras infecciones,neumonia,2019,2,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,2,5,2,7
+POTOSI,50601,COTAGAITA,otras infecciones,neumonia,2019,4,3,1,0,13,3,1,2,0,0,0,0,1,1,3,2,2,2,22,22,47,35,82
+POTOSI,50602,VITICHI,otras infecciones,neumonia,2019,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+POTOSI,50701,SACACA,otras infecciones,neumonia,2019,3,2,3,1,2,5,1,1,0,0,2,2,1,0,0,0,1,0,2,5,15,16,31
+POTOSI,50702,CARIPUYO,otras infecciones,neumonia,2019,0,1,0,1,0,1,1,2,0,0,0,1,2,0,0,2,1,0,4,2,8,10,18
+POTOSI,50801,TUPIZA,otras infecciones,neumonia,2019,11,4,10,4,49,29,17,19,10,8,10,6,23,20,13,18,19,13,40,45,202,166,368
+POTOSI,50802,ATOCHA,otras infecciones,neumonia,2019,3,1,0,0,4,2,1,0,0,1,0,0,1,1,5,0,2,1,0,0,16,6,22
+POTOSI,50901,"COLCHA ""K""",otras infecciones,neumonia,2019,2,1,5,0,9,5,1,4,5,0,0,0,2,5,2,4,1,2,2,5,29,26,55
+POTOSI,50902,SAN PEDRO DE QUEMES,otras infecciones,neumonia,2019,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+POTOSI,51001,SAN PABLO DE LIPEZ,otras infecciones,neumonia,2019,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+POTOSI,51002,MOJINETE,otras infecciones,neumonia,2019,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+POTOSI,51003,SAN ANTONIO DE ESMORUCO,otras infecciones,neumonia,2019,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+POTOSI,51101,PUNA,otras infecciones,neumonia,2019,0,3,2,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,4,1,7,5,12
+POTOSI,51102,"CAIZA ""D""",otras infecciones,neumonia,2019,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+POTOSI,51103,CKOCHAS,otras infecciones,neumonia,2019,1,0,1,0,1,2,0,0,1,0,0,0,1,1,0,0,0,2,4,2,9,7,16
+POTOSI,51201,UYUNI,otras infecciones,neumonia,2019,18,11,19,15,49,28,4,7,1,2,1,2,4,8,2,2,5,0,11,10,114,85,199
+POTOSI,51202,TOMAVE,otras infecciones,neumonia,2019,1,0,0,1,0,0,1,0,1,0,0,1,0,1,0,0,1,0,7,4,11,7,18
+POTOSI,51203,PORCO,otras infecciones,neumonia,2019,0,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,2,3,4,7
+POTOSI,51301,ARAMPAMPA,otras infecciones,neumonia,2019,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+POTOSI,51302,ACACIO,otras infecciones,neumonia,2019,4,1,3,1,2,0,0,1,0,0,0,0,0,1,2,0,1,0,0,2,12,6,18
+POTOSI,51401,LLICA,otras infecciones,neumonia,2019,0,0,1,0,4,3,0,2,1,0,0,0,0,1,0,0,0,0,0,0,6,6,12
+POTOSI,51402,TAHUA,otras infecciones,neumonia,2019,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+POTOSI,51501,VILLAZON,otras infecciones,neumonia,2019,9,12,24,10,54,42,6,4,0,3,1,2,14,10,4,11,20,15,38,55,170,164,334
+POTOSI,51601,SAN AGUSTIN,otras infecciones,neumonia,2019,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+TARIJA,60101,TARIJA,otras infecciones,neumonia,2019,55,27,78,48,241,295,79,79,16,26,29,23,67,74,40,42,50,61,234,231,889,906,1795
+TARIJA,60201,PADCAYA,otras infecciones,neumonia,2019,6,1,11,10,52,40,7,9,7,4,5,8,6,8,9,11,12,12,19,47,134,150,284
+TARIJA,60202,BERMEJO,otras infecciones,neumonia,2019,40,22,77,29,129,119,32,38,20,10,4,10,51,59,25,27,40,46,89,105,507,465,972
+TARIJA,60301,YACUIBA,otras infecciones,neumonia,2019,39,50,86,95,276,285,90,91,58,36,20,14,67,87,39,53,48,49,184,218,907,978,1885
+TARIJA,60302,CARAPARI,otras infecciones,neumonia,2019,45,41,51,42,159,127,54,36,12,4,2,1,8,10,7,4,3,8,34,33,375,306,681
+TARIJA,60303,VILLA MONTES,otras infecciones,neumonia,2019,50,36,62,52,174,174,35,46,17,12,9,17,20,53,14,22,23,32,89,96,493,540,1033
+TARIJA,60401,URIONDO (A. CONCEPCION),otras infecciones,neumonia,2019,8,4,21,10,61,56,21,14,4,3,3,1,4,13,3,11,5,8,20,26,150,146,296
+TARIJA,60402,YUNCHARA,otras infecciones,neumonia,2019,0,3,0,0,3,6,1,0,0,0,0,0,1,1,0,1,1,0,1,5,7,16,23
+TARIJA,60501,SAN LORENZO(TJA),otras infecciones,neumonia,2019,17,4,6,6,10,16,7,3,1,0,0,1,2,8,4,4,1,6,21,26,69,74,143
+TARIJA,60502,EL PUENTE(TJA),otras infecciones,neumonia,2019,1,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,2,4,5,6,10,16
+TARIJA,60601,ENTRE RIOS TRJ,otras infecciones,neumonia,2019,5,4,13,7,22,25,10,14,2,0,2,1,7,3,1,6,2,3,10,26,74,89,163
+SANTA CRUZ,70101,SANTA CRUZ DE LA SIERRA,otras infecciones,neumonia,2019,1369,1167,1552,1271,3334,2984,655,563,221,201,164,170,582,736,299,362,449,466,1423,1644,10048,9564,19612
+SANTA CRUZ,70102,COTOCA,otras infecciones,neumonia,2019,84,55,104,94,252,252,29,44,13,6,15,6,23,22,8,11,12,13,69,86,609,589,1198
+SANTA CRUZ,70103,PORONGO,otras infecciones,neumonia,2019,11,8,21,13,40,49,4,7,1,7,2,0,5,9,1,3,1,5,21,20,107,121,228
+SANTA CRUZ,70104,LA GUARDIA,otras infecciones,neumonia,2019,54,45,77,50,280,271,55,47,15,11,17,12,46,61,21,21,20,31,123,165,708,714,1422
+SANTA CRUZ,70105,EL TORNO,otras infecciones,neumonia,2019,19,20,28,19,86,60,24,15,10,4,6,10,10,17,4,7,5,9,59,50,251,211,462
+SANTA CRUZ,70201,WARNES,otras infecciones,neumonia,2019,75,52,96,72,245,191,62,39,18,19,8,6,21,34,14,26,8,21,103,88,650,548,1198
+SANTA CRUZ,70202,OKINAWA,otras infecciones,neumonia,2019,8,18,22,12,33,43,4,5,0,2,0,2,1,1,0,2,1,3,11,4,80,92,172
+SANTA CRUZ,70301,SAN IGNACIO DE VELASCO,otras infecciones,neumonia,2019,99,68,121,84,181,140,7,8,5,3,4,4,17,18,7,6,7,6,78,63,526,400,926
+SANTA CRUZ,70302,SAN MIGUEL DE VELASCO,otras infecciones,neumonia,2019,23,14,19,12,16,12,3,2,3,1,0,1,2,5,0,1,4,0,13,7,83,55,138
+SANTA CRUZ,70303,SAN RAFAEL,otras infecciones,neumonia,2019,1,0,1,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,5,1,6
+SANTA CRUZ,70401,BUENA VISTA,otras infecciones,neumonia,2019,14,5,20,10,65,48,5,9,2,1,1,1,6,6,3,2,1,3,21,17,138,102,240
+SANTA CRUZ,70402,SAN CARLOS,otras infecciones,neumonia,2019,32,27,76,48,175,136,22,20,6,5,3,3,6,14,5,11,3,4,60,60,388,328,716
+SANTA CRUZ,70403,YAPACANI,otras infecciones,neumonia,2019,211,212,311,251,711,608,88,69,25,21,9,14,25,48,13,14,6,12,70,65,1469,1314,2783
+SANTA CRUZ,70404,SAN JUAN DE YAPACANI,otras infecciones,neumonia,2019,9,15,9,12,40,27,4,1,1,3,2,3,1,1,1,1,0,2,5,4,72,69,141
+SANTA CRUZ,70501,SAN JOSE DE CHIQUITOS,otras infecciones,neumonia,2019,13,11,16,14,67,54,8,10,4,2,0,1,6,9,3,3,3,2,14,11,134,117,251
+SANTA CRUZ,70502,PAILON,otras infecciones,neumonia,2019,44,50,46,42,129,115,7,9,1,2,3,1,12,11,2,3,1,1,17,23,262,257,519
+SANTA CRUZ,70503,ROBORE,otras infecciones,neumonia,2019,56,36,57,40,148,131,18,4,3,6,4,5,8,15,8,6,3,6,30,30,335,279,614
+SANTA CRUZ,70601,PORTACHUELO,otras infecciones,neumonia,2019,35,23,44,13,76,67,28,15,3,13,2,2,11,30,7,4,7,24,107,80,320,271,591
+SANTA CRUZ,70602,SANTA ROSA DEL SARA,otras infecciones,neumonia,2019,7,5,8,8,30,12,6,1,2,0,1,2,6,3,2,0,1,1,10,8,73,40,113
+SANTA CRUZ,70603,COLPA BELGICA,otras infecciones,neumonia,2019,2,3,1,1,4,7,1,2,1,1,1,0,2,2,0,1,1,2,8,9,21,28,49
+SANTA CRUZ,70701,LAGUNILLAS,otras infecciones,neumonia,2019,2,5,4,2,13,9,0,4,2,2,0,1,2,4,1,3,3,3,4,5,31,38,69
+SANTA CRUZ,70702,CHARAGUA,otras infecciones,neumonia,2019,51,46,56,37,114,105,10,15,11,5,2,1,7,12,4,2,7,4,35,41,297,268,565
+SANTA CRUZ,70703,CABEZAS,otras infecciones,neumonia,2019,36,25,31,37,115,103,13,28,6,5,1,8,14,29,7,7,5,15,38,49,266,306,572
+SANTA CRUZ,70704,CUEVO,otras infecciones,neumonia,2019,0,0,2,0,1,3,1,1,0,0,0,0,0,1,0,0,0,0,0,1,4,6,10
+SANTA CRUZ,70705,GUTIERREZ,otras infecciones,neumonia,2019,14,10,33,21,81,62,24,17,4,5,2,4,7,17,3,4,7,0,18,17,193,157,350
+SANTA CRUZ,70706,CAMIRI,otras infecciones,neumonia,2019,26,20,64,31,165,171,17,22,4,6,9,2,15,25,13,5,8,14,94,93,415,389,804
+SANTA CRUZ,70707,BOYUIBE,otras infecciones,neumonia,2019,0,0,0,0,0,0,2,1,0,1,0,0,0,1,0,0,0,0,3,2,5,5,10
+SANTA CRUZ,70801,VALLEGRANDE,otras infecciones,neumonia,2019,4,11,13,7,37,49,14,2,0,1,2,0,2,8,5,5,3,6,38,44,118,133,251
+SANTA CRUZ,70802,TRIGAL,otras infecciones,neumonia,2019,1,0,2,0,3,4,2,1,3,0,0,0,1,0,0,0,0,1,1,6,13,12,25
+SANTA CRUZ,70803,MORO MORO,otras infecciones,neumonia,2019,2,2,2,0,1,2,8,0,0,1,2,0,0,1,1,0,0,3,4,20,20,29,49
+SANTA CRUZ,70804,POSTRER VALLE,otras infecciones,neumonia,2019,0,2,1,3,9,5,1,3,0,0,1,1,2,0,1,3,0,1,5,6,20,24,44
+SANTA CRUZ,70805,PUCARA,otras infecciones,neumonia,2019,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,3,0,1,6,5,9,9,18
+SANTA CRUZ,70901,SAMAIPATA,otras infecciones,neumonia,2019,6,3,5,5,16,18,7,9,1,1,3,1,8,3,2,1,3,4,13,10,64,55,119
+SANTA CRUZ,70902,PAMPA GRANDE,otras infecciones,neumonia,2019,4,5,8,2,6,8,2,0,0,1,1,1,3,1,1,2,1,1,3,3,29,24,53
+SANTA CRUZ,70903,MAIRANA,otras infecciones,neumonia,2019,12,6,23,17,44,32,11,16,4,4,2,1,5,6,3,2,2,3,20,24,126,111,237
+SANTA CRUZ,70904,QUIRUSILLAS,otras infecciones,neumonia,2019,0,0,0,1,1,2,1,1,0,0,0,0,1,1,0,0,2,1,3,2,8,8,16
+SANTA CRUZ,71001,MONTERO,otras infecciones,neumonia,2019,130,112,158,139,557,470,163,130,76,57,44,34,100,100,31,47,44,95,189,218,1492,1402,2894
+SANTA CRUZ,71002,GENERAL SAAVEDRA,otras infecciones,neumonia,2019,27,27,39,34,118,91,9,6,5,4,2,2,6,12,4,8,5,5,33,31,248,220,468
+SANTA CRUZ,71003,MINEROS,otras infecciones,neumonia,2019,14,10,26,17,72,68,10,16,1,5,3,3,2,3,1,0,1,4,16,12,146,138,284
+SANTA CRUZ,71004,FERNANDEZ ALONSO,otras infecciones,neumonia,2019,5,0,3,8,11,10,4,2,4,0,0,0,1,5,1,2,3,1,8,17,40,45,85
+SANTA CRUZ,71005,SAN PEDRO,otras infecciones,neumonia,2019,14,14,26,18,50,37,5,7,3,3,1,4,12,7,4,4,6,5,31,17,152,116,268
+SANTA CRUZ,71101,CONCEPCION,otras infecciones,neumonia,2019,14,18,40,27,125,110,7,7,3,2,2,1,10,4,2,3,3,4,21,23,227,199,426
+SANTA CRUZ,71102,SAN JAVIER(STC),otras infecciones,neumonia,2019,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,1,2,4,6
+SANTA CRUZ,71103,SAN RAMON SCZ,otras infecciones,neumonia,2019,17,8,23,15,57,61,8,7,3,5,2,1,7,6,4,5,2,2,25,12,148,122,270
+SANTA CRUZ,71104,SAN JULIAN,otras infecciones,neumonia,2019,69,53,87,77,218,203,66,67,14,14,13,15,27,52,17,16,15,23,62,62,588,582,1170
+SANTA CRUZ,71105,SAN ANTONIO DE LOMERIO,otras infecciones,neumonia,2019,7,1,8,3,8,13,1,5,3,0,0,0,3,1,0,5,2,3,14,2,46,33,79
+SANTA CRUZ,71106,CUATRO CAÑADAS,otras infecciones,neumonia,2019,32,19,38,20,93,73,2,11,7,5,1,4,8,12,6,4,5,9,41,36,233,193,426
+SANTA CRUZ,71201,SAN MATIAS,otras infecciones,neumonia,2019,12,12,13,10,58,56,9,3,3,1,0,2,1,3,1,0,4,0,10,24,111,111,222
+SANTA CRUZ,71301,COMARAPA,otras infecciones,neumonia,2019,21,15,19,12,29,27,4,5,1,2,2,1,3,9,3,2,1,8,18,17,101,98,199
+SANTA CRUZ,71302,SAIPINA,otras infecciones,neumonia,2019,1,1,2,1,1,3,0,1,0,1,0,0,0,0,0,0,2,2,3,1,9,10,19
+SANTA CRUZ,71401,PUERTO SUAREZ,otras infecciones,neumonia,2019,45,24,64,47,178,156,19,12,5,7,5,4,6,5,4,4,1,7,26,22,353,288,641
+SANTA CRUZ,71402,PUERTO QUIJARRO,otras infecciones,neumonia,2019,1,1,3,6,8,12,0,1,1,0,7,0,0,4,0,1,1,0,2,3,23,28,51
+SANTA CRUZ,71403,CARMEN RIVERO TORREZ,otras infecciones,neumonia,2019,2,3,2,4,10,5,11,3,2,6,3,2,2,5,1,2,0,1,5,3,38,34,72
+SANTA CRUZ,71501,ASCENCION DE GUARAYOS,otras infecciones,neumonia,2019,68,56,82,42,225,160,28,21,6,9,3,3,16,19,6,7,4,10,48,29,486,356,842
+SANTA CRUZ,71502,URUBICHA,otras infecciones,neumonia,2019,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,0,0,0,4,0,4
+SANTA CRUZ,71503,EL PUENTE(STC),otras infecciones,neumonia,2019,17,12,15,13,45,24,8,8,2,1,0,4,1,3,0,1,0,4,8,19,96,89,185
+BENI,80101,TRINIDAD,otras infecciones,neumonia,2019,37,22,51,39,139,130,35,40,22,16,18,12,36,36,21,19,27,41,84,64,470,419,889
+BENI,80102,SAN JAVIER(BNI),otras infecciones,neumonia,2019,6,5,5,3,17,32,6,6,4,2,6,4,4,11,5,1,0,3,11,9,64,76,140
+BENI,80201,RIBERALTA,otras infecciones,neumonia,2019,40,32,33,51,150,130,43,35,15,8,3,6,13,27,11,12,13,7,34,32,355,340,695
+BENI,80202,GUAYARAMERIN,otras infecciones,neumonia,2019,29,21,28,28,77,70,17,31,9,3,8,0,25,27,9,9,13,14,56,58,271,261,532
+BENI,80301,REYES,otras infecciones,neumonia,2019,3,1,0,1,1,4,1,2,0,0,0,0,0,0,0,0,0,0,2,0,7,8,15
+BENI,80302,SAN BORJA,otras infecciones,neumonia,2019,7,7,8,6,9,17,6,4,4,4,2,5,3,11,2,2,7,9,23,34,71,99,170
+BENI,80303,SANTA ROSA,otras infecciones,neumonia,2019,3,1,2,1,6,2,1,2,0,0,0,0,3,1,2,1,1,2,0,0,18,10,28
+BENI,80304,RURRENABAQUE,otras infecciones,neumonia,2019,14,7,26,25,61,74,17,13,7,2,5,0,16,10,4,3,4,7,15,17,169,158,327
+BENI,80401,SANTA ANA,otras infecciones,neumonia,2019,2,2,4,2,13,7,3,2,0,3,9,0,4,2,0,4,9,5,41,34,85,61,146
+BENI,80402,EXALTACION,otras infecciones,neumonia,2019,1,0,1,0,3,2,1,1,1,0,0,1,1,0,0,0,0,0,0,1,8,5,13
+BENI,80501,SAN IGNACIO,otras infecciones,neumonia,2019,4,3,7,8,5,8,2,2,0,1,0,2,4,1,3,3,0,1,16,5,41,34,75
+BENI,80601,LORETO,otras infecciones,neumonia,2019,0,0,2,2,10,8,1,2,4,0,0,0,0,2,1,1,1,1,0,0,19,16,35
+BENI,80602,SAN ANDRES,otras infecciones,neumonia,2019,5,4,8,10,18,18,0,1,1,1,0,1,1,3,2,1,1,2,9,10,45,51,96
+BENI,80701,SAN JOAQUIN,otras infecciones,neumonia,2019,0,0,2,3,4,8,0,0,0,1,0,0,1,1,3,0,0,1,4,9,14,23,37
+BENI,80702,SAN RAMON,otras infecciones,neumonia,2019,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BENI,80703,PUERTO SILES,otras infecciones,neumonia,2019,0,0,0,0,6,0,0,2,1,0,0,0,0,0,0,0,1,0,0,0,8,2,10
+BENI,80801,MAGDALENA,otras infecciones,neumonia,2019,2,3,10,0,4,9,3,2,0,0,0,0,1,1,2,1,1,4,2,0,25,20,45
+BENI,80802,BAURES,otras infecciones,neumonia,2019,2,0,1,2,3,3,1,2,1,0,0,0,1,1,0,0,0,0,2,5,11,13,24
+BENI,80803,HUARACAJE,otras infecciones,neumonia,2019,3,2,2,3,5,7,1,1,0,1,0,0,1,2,0,0,1,1,1,3,14,20,34
+PANDO,90101,COBIJA,otras infecciones,neumonia,2019,115,98,125,93,303,223,91,74,13,11,11,2,18,32,6,19,8,8,32,40,722,600,1322
+PANDO,90102,PORVENIR,otras infecciones,neumonia,2019,3,0,5,12,20,24,5,10,0,2,0,1,1,4,1,0,0,1,10,1,45,55,100
+PANDO,90103,BOLPEBRA,otras infecciones,neumonia,2019,1,5,4,1,4,1,2,3,0,0,1,0,2,0,0,1,0,0,3,3,17,14,31
+PANDO,90104,BELLA FLOR,otras infecciones,neumonia,2019,4,1,2,3,8,17,3,1,2,1,4,0,1,7,0,6,2,1,6,0,32,37,69
+PANDO,90201,PUERTO RICO,otras infecciones,neumonia,2019,0,2,1,0,2,4,0,2,0,0,1,0,1,0,1,0,0,0,4,1,10,9,19
+PANDO,90202,SAN PEDRO(PND),otras infecciones,neumonia,2019,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,1,2,3
+PANDO,90203,FILADELFIA,otras infecciones,neumonia,2019,12,8,11,16,19,19,3,4,3,1,3,4,1,2,8,4,1,1,7,1,68,60,128
+PANDO,90301,PUERTO GONZALO MORENO,otras infecciones,neumonia,2019,14,6,18,22,41,45,4,4,7,0,0,1,3,3,1,0,0,1,13,2,101,84,185
+PANDO,90302,SAN LORENZO(PND),otras infecciones,neumonia,2019,12,11,21,22,34,41,2,6,0,1,1,0,3,2,1,0,0,0,3,1,77,84,161
+PANDO,90303,SENA,otras infecciones,neumonia,2019,2,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,5,2,7
+PANDO,90401,NACEBE (SANTA ROSA DEL ABUNA),otras infecciones,neumonia,2019,1,0,15,4,29,13,2,1,1,0,0,0,3,2,1,0,1,0,0,1,53,21,74
+PANDO,90402,INGAVI (HUMAITA),otras infecciones,neumonia,2019,0,0,0,0,2,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,3,5
+PANDO,90501,NUEVO MANOA (NUEVA ESPERANZA),otras infecciones,neumonia,2019,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,1,3
+PANDO,90502,VILLA NUEVA (LOMA ALTA),otras infecciones,neumonia,2019,3,1,1,1,6,3,0,0,0,0,2,0,2,1,3,1,1,1,1,0,19,8,27
+PANDO,90503,EUREKA (SANTOS MERCADO),otras infecciones,neumonia,2019,0,0,2,1,0,0,0,0,0,0,0,0,2,1,1,1,0,0,0,0,5,3,8
